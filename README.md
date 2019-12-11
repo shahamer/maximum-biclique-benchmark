@@ -1,3 +1,3 @@
 # maximum biclique benchmark
 
-Similar to dimacs 
+(last update: 11/Dec/19)
