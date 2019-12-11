@@ -6,10 +6,10 @@
  
 [Real World]
 
-| Name            | Source | Nodes      | Edges         | max biclique |
+| Name            | Information | Nodes      | Edges         | max biclique |
 |-----------------|--------|------------|---------------|--------------|
 | email-Eu-core   |        | 1,005      | 25,571        | 380          |
-| com-Amazon      |        | 334,863    | 925,872       | 188          |
+| com-Amazon      | [2](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Amazon)       | 334,863    | 925,872       | 188          |
 | com-DBLP        |        | 317,080    | 1,049,866     | 3,249        |
 | com-Youtube     |        | 1,134,890  | 2,987,624     | 8,008        |
 | wiki-topcats    |        | 1,791,489  | 28,511,807    | 126,824      |
