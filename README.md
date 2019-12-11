@@ -4,7 +4,7 @@
 
 [Abstract]
  
-[Real World]
+[Real World Datasets]
 
 | name            |         nodes      | edges         | max biclique |
 |-----------------|--------------------:|---------------:|--------------:|
@@ -17,7 +17,7 @@
 | [com-Orkut](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Orkut)        | 6,144,880 x 6,144,880  | 117,185,083   |              |
 | [com-Friendster](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Friendster)          | ? | 1,806,067,135 |              |
 
-[Synthetic]
+[Synthetic Datasets]
 
 [Introduction]
   
