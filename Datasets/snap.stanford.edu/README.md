@@ -1,1 +1,1 @@
-[snap.stanford.edu](https://snap.stanford.edu/data/#communities)
+https://snap.stanford.edu/data/#communities
