@@ -12,3 +12,4 @@
 * time to mine: 
 * time to explore: 
 * `38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their [...] <https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset>`_
+* |OK_ICON| `Hyperspectral benchmark dataset on soil moisture <https://doi.org/10.5281/zenodo.1227837>`_
