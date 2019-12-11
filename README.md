@@ -7,7 +7,7 @@
 [Real World]
 
 | Name            |         Nodes      | Edges         | max biclique |
-|-----------------|--------------------|---------------|--------------|
+|-----------------|--------------------:|---------------:|--------------:|
 | [email-Eu-core](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/email-Eu-core)|         1,005      | 25,571        | 380          |
 | [com-Amazon](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Amazon)      | 334,863    | 925,872       | 188          |
 | [com-DBLP](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-DBLP)          | 317,080    | 1,049,866     | 3,249        |
