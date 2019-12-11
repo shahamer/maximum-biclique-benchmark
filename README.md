@@ -1,1 +1,1 @@
-# maximum-biclique-benchmark
+# maximum biclique benchmark
