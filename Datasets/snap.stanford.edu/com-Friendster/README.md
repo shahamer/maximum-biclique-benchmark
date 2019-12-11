@@ -1,6 +1,6 @@
 * name:	Friendster social network and ground-truth communities
 * source: https://snap.stanford.edu/data/com-Friendster.html
-* nodes: 65,608,366
+* nodes: ?
 * edges: 1,806,067,135
 * density: 0.00004%
 * description: Friendster online social network
@@ -11,5 +11,3 @@
 * |J| = : 
 * time to mine: 
 * time to explore: 
-* `38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their [...] <https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset>`_
-* |OK_ICON| `Hyperspectral benchmark dataset on soil moisture <https://doi.org/10.5281/zenodo.1227837>`_
