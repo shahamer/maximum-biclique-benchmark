@@ -31,7 +31,10 @@ When publishing results obtained using this benchmark, the original dataset auth
   year         = 2019
 }
                 
-### References
+## References
+
+E. Shaham, H. Yu, and X. Li. On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach. In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 
 
-                                       last update: 12 Dec 19
+
+                                                                                                               last update: 12 Dec 19
