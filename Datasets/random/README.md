@@ -8,11 +8,3 @@ The model enables variability in the degree of vertices: given a bipartite graph
 
 If you wish to use the code, please cite the following paper:
 Eran Shaham, Honghai Yu, and Xiao-Li Li. On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach. In SIAM International Conference on Data Mining, 2006, pp. 315–323.
-
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
