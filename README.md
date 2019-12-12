@@ -2,11 +2,11 @@
 
 (last update: 12/Dec/19)
 
-[Abstract]
+# Introduction
  
-[Real World Datasets]
+# Real World Datasets
 
-| name            |         nodes      | edges         | max biclique |
+| dataset info            |         nodes      | edges         | max biclique |
 |-----------------|--------------------:|---------------:|--------------:|
 | [email-Eu-core](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/email-Eu-core)|         824 x 965      | 24,929        | 380          |
 | [com-Amazon](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Amazon)      |         265,933 x 264,147    | 925,872       | 188          |
@@ -17,12 +17,12 @@
 | [com-Orkut](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Orkut)        |             2,723,360 x 3,072,440  | 117,185,083   |              |
 | [com-Friendster](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Friendster)          | ? | 1,806,067,135 |              |
 
-[Synthetic Datasets]
-
-[Introduction]
+# Synthetic Datasets
   
-[Related Work]
- 
-[References]
+# Related Work
 
-[Acknowledgement & Citation]
+# Acknowledgement & Citation
+
+# References
+
+
