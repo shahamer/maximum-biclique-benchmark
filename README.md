@@ -37,12 +37,12 @@ E. Shaham, H. Yu, and X. Li
 Shaham, Eran and Yu, Honghai and Li, Xiao-Li.
 -->
 1. Eran Shaham, Honghai Yu, and Xiao-Li Li. 
-On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach. 
+*On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach*. 
 In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 <!--->
 <!-- Y. Zhang, C. A. Phillips, G. L. Rogers, E. J. Baker, E. J. Chesler, and M. A. Langston -->
 2. Yun Zhang, Charles A Phillips, Gary L. Rogers, Erich J. Baker, Elissa J. Chesler, and Michael A. Langston. 
-On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types.
+*On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types*.
 BMC Bioinformatics, 15, 2014, pp. 110–127.
 
                                                                                             last update: 12 Dec 19
