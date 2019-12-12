@@ -4,10 +4,10 @@
 * edges: 117,185,083
 * density: 0.00031%
 * description: Orkut online social network
-* max{degree(U)} (1xn): 33,007
-* max{degree(V)} (mx1): 3,415
-* max biclique: 
-* |I| = : 
-* |J| = : 
+* max{degree(U)} (1x|J|): 33,007
+* max{degree(V)} (|I|x1): 3,415
+* max biclique (|I| x |J|):
+* |I| = :: 
+* |J| = :: 
 * time to mine: 
 * time to explore: 
