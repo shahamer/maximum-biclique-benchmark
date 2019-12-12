@@ -7,4 +7,6 @@ The model enables variability in the degree of vertices: given a bipartite graph
 
 
 If you wish to use the code, please cite the following paper:
-Eran Shaham, Honghai Yu, and Xiao-Li Li. *On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach*. In SIAM International Conference on Data Mining, 2006, pp. 315–323.
+Eran Shaham, Honghai Yu, and Xiao-Li Li. 
+*On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach*. 
+In SIAM International Conference on Data Mining, 2006, pp. 315–323.
