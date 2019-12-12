@@ -1,8 +1,8 @@
 * name:	DBLP collaboration network and ground-truth communities
 * source: https://snap.stanford.edu/data/com-DBLP.html
-* nodes: 634,160 x 634,160
+* nodes: 189,114 x 304,374
 * edges: 1,049,866
-* density: 0.00026%
+* density: 0.0018%
 * description: DBLP collaboration network
 * max{degree(U)} (1xn): 306
 * max{degree(V)} (mx1): 113
