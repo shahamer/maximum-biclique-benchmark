@@ -4,8 +4,8 @@
 * edges: 925,872
 * density: 0.0013%
 * description: Amazon product network
-* max{degree(U)} (1xn): 168
-* max{degree(V)} (mx1): 546
+* max{degree(U)} (1x|J|): 168
+* max{degree(V)} (|I|x1): 546
 * max biclique (|I| x |J|): 188 = 94 x 2
 * time to mine: < 1 minute
 * time to explore: 2 minute
