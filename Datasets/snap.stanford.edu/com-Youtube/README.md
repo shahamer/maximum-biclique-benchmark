@@ -4,8 +4,8 @@
 * edges: 2,987,624
 * density: 0.0007%
 * description: Youtube online social network
-* max{degree(U)} (1xn): 28,576
-* max{degree(V)} (mx1): 4,256
+* max{degree(U)} (1x|J|): 28,576
+* max{degree(V)} (|I|x1): 4,256
 * max biclique (|I| x |J|): 8,008 = 2 x 4,004
 * time to mine: 14 minutes
 * time to explore: 4.3 hours
