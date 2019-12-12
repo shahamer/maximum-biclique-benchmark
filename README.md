@@ -22,7 +22,16 @@
 
 ## Acknowledgement & Citation
 
-## References
+When publishing results obtained using this benchmark, the original dataset authors should be cited. Please use the following BibTeX citation for citing this benchmark:
+@misc{MaximumBicliqueBenchmark,
+  author       = {Eran Shaham},
+  title        = {maximum biclique benchmark},
+  howpublished = {\url{https://github.com/shahamer/maximum-biclique-benchmark}},
+  month        = dec,
+  year         = 2019
+}
+                
+### References
 
 
-(last update: 12/Dec/19)
+                                                                                                                 last update: 12 Dec 19
