@@ -4,8 +4,8 @@
 * edges: 24,929
 * density: 3.14%
 * description: E-mail network
-* max{degree(U)} (1xn): 333
-* max{degree(V)} (mx1): 211
+* max{degree(U)} (1x|J|): 333
+* max{degree(V)} (|I|x1): 211
 * max biclique (|I| x |J|): 380 = 5	x 76
 * time to mine: < 1 min
 * time to explore: < 1 min
