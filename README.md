@@ -12,7 +12,7 @@
 | [com-DBLP](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-DBLP)          |      189,114 x 304,374   | 1,049,866     | 3,249        |
 | [com-Youtube](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Youtube)    |     374,785 x 1,134,140  | 2,987,624     | 8,008        |
 | [wiki-topcats](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/wiki-topcats)  |   1,791,489 x 1,791,489  | 28,508,141    | 126,824      |
-| [com-LiveJournal](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-LiveJournal)         | 2,325,297 x 3,996,402  | 34,681,189    |              |
+| [com-LiveJournal](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-LiveJournal)         | 2,325,297 x 3,996,402  | 34,681,189    |   33,984           |
 | [com-Orkut](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Orkut)        |             2,723,360 x 3,072,440  | 117,185,083   |              |
 | [com-Friendster](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Friendster)          |  | 1,806,067,135 |              |
 
