@@ -1,6 +1,5 @@
 # maximum biclique benchmark
 
-(last update: 12/Dec/19)
 
 # Introduction
  
@@ -26,3 +25,4 @@
 # References
 
 
+(last update: 12/Dec/19)
