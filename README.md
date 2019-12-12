@@ -33,7 +33,7 @@ When publishing results obtained using this benchmark, the original dataset auth
                 
 ## References
 [comment]: <> (E. Shaham, H. Yu, and X. Li)
-Shaham, Eran and Yu, Honghai and Li, XiaoLi. On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach. In SIAM International Conference on Data Mining, 2006, pp. 315–323.
+Shaham, Eran and Yu, Honghai and Li, Xiao-Li. On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach. In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 
 
 
