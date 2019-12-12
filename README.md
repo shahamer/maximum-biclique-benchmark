@@ -1,9 +1,9 @@
 # maximum biclique benchmark
 
 
-# Introduction
+## Introduction
  
-# Real World Datasets
+## Real World Datasets
 
 | dataset info            |         nodes      | edges         | max biclique |
 |-----------------|--------------------:|---------------:|--------------:|
@@ -16,13 +16,13 @@
 | [com-Orkut](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Orkut)        |             2,723,360 x 3,072,440  | 117,185,083   |              |
 | [com-Friendster](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Friendster)          | ? | 1,806,067,135 |              |
 
-# Synthetic Datasets
+## Synthetic Datasets
   
-# Related Work
+## Related Work
 
-# Acknowledgement & Citation
+## Acknowledgement & Citation
 
-# References
+## References
 
 
 (last update: 12/Dec/19)
