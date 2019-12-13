@@ -3,6 +3,8 @@
 
 ## Introduction
  
+## Table of Contents
+ 
 ## Real World Datasets
 
 | dataset info    |  max biclique |       nodes      | edges         | 
