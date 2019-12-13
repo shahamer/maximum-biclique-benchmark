@@ -55,4 +55,3 @@ In SIAM International Conference on Data Mining, 2016, pp. 315–323.
 *On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types*.
 BMC Bioinformatics, 15, 2014, pp. 110–127.
 
-                                                                                            last update: 12 Dec 19
