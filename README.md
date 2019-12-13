@@ -26,15 +26,15 @@ When publishing results obtained using this benchmark, the original dataset auth
 
 @misc{MaximumBicliqueBenchmark,
 
-      author       = {Eran Shaham},
+author       = {Eran Shaham},
 
-      title        = {maximum biclique benchmark},
+title        = {maximum biclique benchmark},
 
-      howpublished = {\url{https://github.com/shahamer/maximum-biclique-benchmark}},
+howpublished = {\url{https://github.com/shahamer/maximum-biclique-benchmark}},
 
-      month        = dec,
+month        = dec,
 
-      year         = 2019
+year         = 2019
 
 }
                 
