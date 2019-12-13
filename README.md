@@ -4,6 +4,12 @@
 ## Introduction
  
 ## Table of Contents
+
+* [Real World Datasets](#real-world-datasets)
+* [Synthetic Datasets](#synthetic-datasets)
+* [Related Work](#related-work)
+* [Acknowledgement & Citation](#acknowledgement--citation)
+* [References](#references)
  
 ## Real World Datasets
 
