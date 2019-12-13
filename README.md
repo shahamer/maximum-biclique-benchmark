@@ -4,7 +4,6 @@
 ## Introduction
  
 ## Table of Contents
-
 * [Real World Datasets](#real-world-datasets)
 * [Synthetic Datasets](#synthetic-datasets)
 * [Related Work](#related-work)
@@ -29,7 +28,6 @@
 ## Related Work
 
 ## Acknowledgement & Citation
-
 When publishing results obtained using this benchmark, the original dataset authors should be cited. Please use the following BibTeX citation for citing this benchmark:
 ```
 @misc{MaximumBicliqueBenchmark,
