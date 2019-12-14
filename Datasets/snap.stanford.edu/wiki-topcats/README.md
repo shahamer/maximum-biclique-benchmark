@@ -4,8 +4,8 @@
 * edges: 28,508,141
 * density: 0.00089%
 * description: Wikipedia hyperlinks
-* max{degree(U)} (1x|J|): 3,907
-* max{degree(V)} (|I|x1): 238,040
+* max{degree(U)} (1 x |J|): 3,907
+* max{degree(V)} (|I| x 1): 238,040
 * max biclique (|I| x |J|): 126,824 = 31,706 x 4
 * time to max biclique: 4.6 hours
 * overall run-time: 12.4 hours 
