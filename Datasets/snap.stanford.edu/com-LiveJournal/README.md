@@ -4,8 +4,8 @@
 * edges: 34,681,189
 * density: 0.00037%
 * description: LiveJournal online social network
-* max{degree(U)} (1xn): 14,703
-* max{degree(V)} (mx1): 2,454
+* max{degree(U)} (1 x |J|): 14,703
+* max{degree(V)} (|I| x 1): 2,454
 * max biclique (|I| x |J|): |192 x 177| = 33,984
 * time to max biclique: 1.5 day
 * overall run-time: 1.5 day
