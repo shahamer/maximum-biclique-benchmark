@@ -4,8 +4,8 @@
 * edges: 1,049,866
 * density: 0.0018%
 * description: DBLP collaboration network
-* max{degree(U)} (1x|J|): 306
-* max{degree(V)} (|I|x1): 113
+* max{degree(U)} (1 x |J|): 306
+* max{degree(V)} (|I| x 1): 113
 * max biclique (|I| x |J|): 3,249 = 57 x 57
 * time to max biclique: 7.1 sec
 * overall run-time: 1.1 min
