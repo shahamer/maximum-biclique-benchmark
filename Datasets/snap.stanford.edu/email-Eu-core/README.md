@@ -2,7 +2,7 @@
 * source:	https://snap.stanford.edu/data/email-Eu-core.html
 * nodes: 824 x 965
 * edges: 24,929
-* density: 3.14%
+* density: 3.135%
 * description: E-mail network
 * max{degree(U)} (1x|J|): 333
 * max{degree(V)} (|I|x1): 211
