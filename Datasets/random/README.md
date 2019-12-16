@@ -15,10 +15,10 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 
 # Datasets
 The following synthetic datasets have the following format: 
-* RegularErdosRenyi: random.m\_{|U|}\_n\_{|V|}_p_{ρ}
-* ModifiedErdosRenyi:  random.m_{|U|}_n_{|V|}_p_{ρ}_cv_{CV}
+* RegularErdosRenyi: random.m\_{|U|}\_n\_{|V|}\_p\_{ρ}
+* ModifiedErdosRenyi:  random.m\_{|U|}\_n\_{|V|}\_p\_{ρ}\_cv\_{CV}
 
-The datasets reflects the datasets used in the paper ["_On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types_"](https://github.com/shahamer/maximum-biclique-benchmark#references) -- three datasets for figure Fig.8, Fig.9, Fig.11_a, Fig.11_b, and Fig.11_c. 
+The datasets reflects the datasets used in the paper ["_On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types_"](https://github.com/shahamer/maximum-biclique-benchmark#references): three datasets for figure Fig.8, Fig.9, Fig.11_a, Fig.11_b, and Fig.11_c. 
 
 
 ## random.m_10000_n_1000_p_0.02
