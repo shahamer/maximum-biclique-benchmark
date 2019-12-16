@@ -1,4 +1,5 @@
 
+# Introduction 
 The class RandomBipartiteGraph contains the following two static functions for generating random bipartite graphs: 
 * RegularErdosRenyi: Erdős–Rényi random bipartite graph model.
 Each possible edge in the bipartite graph has a probability ρ, independent of other edges, to be included in the graph. The probability ρ is also referred to as “density”.
@@ -12,6 +13,13 @@ Eran Shaham, Honghai Yu, and Xiao-Li Li.
 In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 
 
+# Datasets
+The following synthetic datasets have the following format: 
+* RegularErdosRenyi: random.m_{|U|}_n_{|V|}_p_{ρ}
+* ModifiedErdosRenyi:  random.m_{|U|}_n_{|V|}_p_{ρ}_cv_{CV}
+
+The datasets reflects the datasets used in the paper ["_On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types_"]{https://github.com/shahamer/maximum-biclique-benchmark#references} -- three datasets for figure Fig.8, Fig.9, Fig.11_a, Fig.11_b, and Fig.11_c. 
+
 
 ## random.m_10000_n_1000_p_0.02
 * name:	random.m_10000_n_1000_p_0.02
@@ -19,7 +27,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 10,000 x 1,000
 * edges: 199,988
 * density: 2%
-* description: 
+* description: Fig.8
 * max{degree(U)} (1 x |J|): 41
 * max{degree(V)} (|I| x 1): 242
 * max biclique (|I| x |J|): 32 = 16 x 2
@@ -35,7 +43,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 10,000 x 5,000
 * edges: 999,915
 * density: 2%
-* description: 
+* description: Fig.8
 * max{degree(U)} (1 x |J|): 139
 * max{degree(V)} (|I| x 1): 252
 * max biclique (|I| x |J|): 36 = 18 x 2
@@ -51,7 +59,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 10,000 x 10,000
 * edges: 1,999,824
 * density: 2%
-* description: 
+* description: Fig.8
 * max{degree(U)} (1 x |J|): 256
 * max{degree(V)} (|I| x 1): 254
 * max biclique (|I| x |J|): 38 = 2 x 19
@@ -67,7 +75,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 9,992 x 1,000
 * edges: 450,000
 * density: 4.5%
-* description: 
+* description: Fig.9
 * max{degree(U)} (1 x |J|): 94
 * max{degree(V)} (|I| x 1): 518
 * max biclique (|I| x |J|): 96 = 48 x 2
@@ -84,7 +92,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 8,928 x 1,000
 * edges: 468,268
 * density: 5.245%
-* description: 
+* description: Fig.9
 * max{degree(U)} (1 x |J|): 174
 * max{degree(V)} (|I| x 1): 536
 * max biclique (|I| x |J|): 128 = 64 x 2
@@ -100,7 +108,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 7,781 x 1,000
 * edges: 521,964
 * density: 6.7%
-* description: 
+* description: Fig.9
 * max{degree(U)} (1 x |J|): 262
 * max{degree(V)} (|I| x 1): 589
 * max biclique (|I| x |J|): 170 = 85 x 2
@@ -117,7 +125,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 300 x 300
 * edges: 8,969
 * density: 9.965%
-* description: 
+* description: Fig.11_a
 * max{degree(U)} (1 x |J|): 46
 * max{degree(V)} (|I| x 1): 44
 * max biclique (|I| x |J|): 26 = 13 x 2
@@ -135,7 +143,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 300 x 300
 * edges: 17,937
 * density: 19.93%
-* description: 
+* description: Fig.11_a
 * max{degree(U)} (1 x |J|): 80
 * max{degree(V)} (|I| x 1): 82
 * max biclique (|I| x |J|): 58 = 29 x 2
@@ -153,7 +161,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 300 x 300
 * edges: 26,903
 * density: 29.89%
-* description: 
+* description: Fig.11_a
 * max{degree(U)} (1 x |J|): 114
 * max{degree(V)} (|I| x 1): 113
 * max biclique (|I| x |J|): 110 = 2 x 55
@@ -170,7 +178,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 9,513 x 100
 * edges: 29,998
 * density: 3.15%
-* description: 
+* description: Fig.11_b
 * max{degree(U)} (1 x |J|): 12
 * max{degree(V)} (|I| x 1): 358
 * max biclique (|I| x |J|): 44 = 22 x 2
@@ -187,7 +195,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 10,000 x 500
 * edges: 149,991
 * density: 3%
-* description: 
+* description: Fig.11_b
 * max{degree(U)} (1 x |J|): 33
 * max{degree(V)} (|I| x 1): 352
 * max biclique (|I| x |J|): 50 = 25 x 2
@@ -204,7 +212,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 10,000 x 1,000
 * edges: 299,970
 * density: 3%
-* description: 
+* description: Fig.11_b
 * max{degree(U)} (1 x |J|): 53 
 * max{degree(V)} (|I| x 1): 350
 * max biclique (|I| x |J|): 52 = 26 x 2
@@ -221,7 +229,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 5,000 x 500
 * edges: 74,980
 * density: 3%
-* description: 
+* description: Fig.11_c
 * max{degree(U)} (1 x |J|): 32
 * max{degree(V)} (|I| x 1): 187
 * max biclique (|I| x |J|): 32 = 16 x 2
@@ -238,7 +246,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 25,000 x 500
 * edges: 374,992
 * density: 3%
-* description: 
+* description: Fig.11_c
 * max{degree(U)} (1 x |J|): 33
 * max{degree(V)} (|I| x 1): 828
 * max biclique (|I| x |J|): 90 = 45 x 2
@@ -256,7 +264,7 @@ In SIAM International Conference on Data Mining, 2006, pp. 315–323.
 * nodes: 50,000 x 500
 * edges: 749,983
 * density: 3%
-* description: 
+* description: Fig.11_c
 * max{degree(U)} (1 x |J|): 35
 * max{degree(V)} (|I| x 1): 1,632
 * max biclique (|I| x |J|): 150 = 75 x 2
