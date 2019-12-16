@@ -25,7 +25,25 @@
 | [com-Friendster](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Friendster) |                  |  2,491,391 x 22,021,894  | 175,733,662 |              
 
 ## Synthetic Datasets
-  
+
+| dataset info    |  max biclique |       nodes      | edges         | 
+|:-----------------|--------------------:|---------------:|--------------:|
+| [random.m_10000_n_1000_p_0.02](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_1000_p_002)|         32      |   10,000 x 1,000      | 199,988        | 
+| [random.m_10000_n_5000_p_0.02](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_5000_p_002)      |         36      |  10,000 x 5,000   | 999,915       | 
+| [random.m_10000_n_10000_p_0.02]https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_10000_p_002)          |      38    | 10,000 x 10,000   | 1,999,824     | 
+| [random.m_10000_n_1000_p_0.045_cv_0.3](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_1000_p_0045_cv_03)    |    96     |  9,992 x 1,000  | 450,000     | 
+| [random.m_10000_n_1000_p_0.045_cv_0.8](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_1000_p_0045_cv_08)  |   128    |  8,928 x 1,000  | 468,268   | 
+| [random.m_10000_n_1000_p_0.045_cv_1.3](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_1000_p_0045_cv_13)|   170     |  7,781 x 1,000  | 521,964    |   
+| [random.m_300_n_300_p_0.1](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_300_n_300_p_01)        |        26            | 300 x 300  | 8,969   |              
+| [random.m_300_n_300_p_0.2](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_300_n_300_p_02) |           58       |  300 x 300  | 17,937 |    
+| [random.m_300_n_300_p_0.3](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_300_n_300_p_03) |                            110       |  300 x 300  | 26,903 |  
+| [random.m_10000_n_100_p_0.03](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_100_p_003) |                         44       |  9,513 x 100  | 29,998 | 
+| [random.m_10000_n_500_p_0.03](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_500_p_003) |                         50       |  10,000 x 500 | 149,991 | 
+| [random.m_10000_n_1000_p_0.03](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_1000_p_003) |                         52      |  10,000 x 1,000 | 299,970 | 
+| [random.m_5000_n_500_p_0.03](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_5000_n_500_p_003) |                         32       |  5,000 x 500  | 74,980 | 
+| [random.m_25000_n_500_p_0.03](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_25000_n_500_p_003) |                      90       |  25,000 x 500 | 374,992 | 
+| [random.m_50000_n_500_p_0.03](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_50000_n_500_p_003) |                   150       |  50,000 x 500  | 749,983 | 
+
 ## Related Work
 
 ## Acknowledgement & Citation
