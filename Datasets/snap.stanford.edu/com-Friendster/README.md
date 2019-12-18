@@ -5,7 +5,7 @@
 * density: 0.000074%
 * description: Friendster online social network
 * max{degree(U)} (1 x |J|): 3,615
-* max{degree(V)} (|I| x 1): 1,482
+* max{degree(V)} (|I| x 1): 4,223
 * max biclique (|I| x |J|):
 * time to max biclique: 
 * overall run-time: 
