@@ -6,8 +6,8 @@
 * description: Orkut online social network
 * max{degree(U)} (1 x |J|): 33,007
 * max{degree(V)} (|I| x 1): 3,415
-* max biclique (|I| x |J|): 
+* max biclique (|I| x |J|): 33,007 (not verified max)
 * time to max biclique: 
-* overall run-time: 
+* overall run-time: 8 day (run terminated)
 * |I| = :: 
 * |J| = ::
