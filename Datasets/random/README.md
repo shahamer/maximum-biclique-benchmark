@@ -61,8 +61,8 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 * max{degree(U)} (1 x |J|): 256
 * max{degree(V)} (|I| x 1): 254
 * max biclique (|I| x |J|): 38 = 2 x 19
-* time to max biclique: 2.9 min
-* overall run-time: 14.0 hour
+* time to max biclique: 2.2 hour
+* overall run-time: 10.4 hour 
 * |I| = :: 379, 4734
 * |J| = :: 7, 558, 1505, 1990, 2963, 3949, 4097, 4206, 4590, 6169, 6927, 6968, 7564, 8272, 9181, 9489, 9747, 9846, 9972
 
