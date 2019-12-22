@@ -14,7 +14,7 @@
 ## Real World Datasets
 
 | dataset info    |  max biclique |       nodes      | edges         |  density         | 
-|:-----------------|--------------------:|---------------:|--------------:|--------------:|
+|:-----------------|:-------------|:-----------|:--------|:----------|
 | [email-Eu-core](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/email-Eu-core)|         380      |   824 x 965      | 24,929        | 3% |
 | [com-Amazon](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Amazon)      |         188      |  265,933 x 264,147    | 925,872       | 0.001% |
 | [com-DBLP](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-DBLP)          |      3,249    | 189,114 x 304,374   | 1,049,866     | 0.002% | 
