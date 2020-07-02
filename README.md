@@ -47,8 +47,6 @@
 | [random.m_25000_n_500_p_0.03](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_25000_n_500_p_003) |      90       |  25,000 x 500 | 374,992 | 3% | 
 | [random.m_50000_n_500_p_0.03](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_50000_n_500_p_003) |       150       |  50,000 x 500  | 749,983 | 3% | 
 
-## Related Work
-
 ## Acknowledgement & Citation
 
 When publishing results obtained using this benchmark, the original dataset authors should be cited. Please use the following BibTeX citation for citing this benchmark:
