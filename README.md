@@ -15,16 +15,16 @@
 
 | dataset info    |  max biclique |       nodes      | edges         |  density         | 
 |:-----------------|-----:|-------:|-----:|------:|
-| [email-Eu-core](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/email-Eu-core) | 380 | 824 x 965 | 24,929 | 3% |
-| [MovieLens 100k](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/konect.uni-koblenz.de/movielens-100k_rating) | 1,260 |  943 x 1,682 | 99,906 |   6.3% |  
-| [com-Amazon](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Amazon)  | 188 | 265,933 x 264,147 | 925,872 | 0.001% |
-| [MovieLens 1M](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/konect.uni-koblenz.de/movielens-1m) | 7,002 | 6,040 x 3,706 | 1,000,047 | 4.467% | 
-| [com-DBLP](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-DBLP)   | 3,249 | 189,114 x 304,374 | 1,049,866 | 0.002% |
+| [email-Eu-core](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/email-Eu-core) | 390 | 868 x 991 | 25,571| 2.97% |
+| [MovieLens 100k](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/konect.uni-koblenz.de/movielens-100k_rating) | 1,267 |  943 x 1,682 | 100,000 |   6.3% |  
+| [com-Amazon](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Amazon)  | 188 | 265,933 x 264,147 | 925,872 | 0.0013% |
+| [MovieLens 1M](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/konect.uni-koblenz.de/movielens-1m) | 7,002 | 6,040 x 3,706 | 1,000,209 | 4.467% | 
+| [com-DBLP](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-DBLP)   | 3,249 | 189,114 x 304,374 | 1,049,866 | 0.0018% |
 | [com-Youtube](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Youtube)  | 8,008 | 374,785 x 1,134,140 | 2,987,624 | 0.0007% | 
 | [MovieLens 10M](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/konect.uni-koblenz.de/movielens-10m_rating) | 67,728 | 69,878 x 10,677 | 9,999,921 | 1.34% | 
-| [wiki-topcats](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/wiki-topcats) | 126,824 | 1,791,489 x 1,791,489 | 28,508,141 | 0.0009% | 
-| [com-LiveJournal](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-LiveJournal) | 33,984 |  2,325,297 x 3,996,402 | 34,681,189    | 0.0004% | 
-| [com-Orkut](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Orkut) | 16,726 | 2,723,360 x 3,072,440 | 117,185,083 | 0.001% | 
+| [wiki-topcats](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/wiki-topcats) | 126,824 | 1,791,489 x 1,791,489 | 28,511,807 | 0.00089% | 
+| [com-LiveJournal](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-LiveJournal) | 33,984 | 2,325,297 x 3,996,402 | 34,681,189    | 0.00037% | 
+| [com-Orkut](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/snap.stanford.edu/com-Orkut) | 16,726 | 2,723,360 x 3,072,440 | 117,185,083 | 0.0014% | 
 
 
 ## Synthetic Datasets
