@@ -22,7 +22,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 Another synthetic dataset has the following format: 
 * RegularErdosRenyi: random.m\_{|U|}\_n\_{|V|}\_r\_{r}\_p\_{ρ}
 
-Similar to the above synthetic dataset, this dataset reflects random matrices of size |U| x |V| of density ρ, and planted biclique of size r|U| x r|V|.
+Similar to the above synthetic dataset, this dataset reflects random matrices of size |U| x |V| of density ρ, and a planted biclique of size r|U| x r|V|.
 
 
 ## random.m_10000_n_1000_p_0.02
@@ -272,7 +272,7 @@ Similar to the above synthetic dataset, this dataset reflects random matrices of
 * nodes: 100 x 100
 * edges: 2,381
 * density: 23.81%
-* description: 
+* description: random matrix of size 100 x 100 of density 0.2, and a planted biclique of size 20 x 20 (=0.2*100 x 0.2*100)
 * max{degree(U)} (1 x |J|): 43
 * max{degree(V)} (|I| x 1): 45
 * max biclique (|I| x |J|): 400 = 20 x 20
@@ -302,15 +302,15 @@ Similar to the above synthetic dataset, this dataset reflects random matrices of
 * name:	random.m_100_n_100_r_0.2_p_0.8
 * source: [random.m_100_n_100_r_0.2_p_0.8.txt](random.m_100_n_100_r_0.2_p_0.8.txt.7z)
 * nodes: 100 x 100
-* edges: 8,067
-* density: 80.67%
+* edges: 
+* density: 
 * description: 
 * max{degree(U)} (1 x |J|): 
-* max{degree(V)} (|I| x 1): 68
+* max{degree(V)} (|I| x 1): 
 * max biclique (|I| x |J|): 400 = 20 x 20
 * I: 
 * J: 
-* time to max biclique: 101.0 msec
-* overall run-time: 6.4 sec
+* time to max biclique: 
+* overall run-time: 
 
 
