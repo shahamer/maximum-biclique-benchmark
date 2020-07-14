@@ -47,6 +47,9 @@
 | [random.m_25000_n_500_p_0.03](Datasets/random#randomm_25000_n_500_p_003) | 90 | 25,000 x 500 | 375,000 | 3% | 
 | [random.m_50000_n_500_p_0.03](Datasets/random#randomm_50000_n_500_p_003) |  150 | 50,000 x 500  | 750,000 | 3% | 
 
+| [random.m_100_n_100_r_0.2.p_0.2](Datasets/random#random.m_100_n_100_r_0.2.p_0.2) |    | 100 x 100  | 2,381 | 23.8% | 
+| [random.m_100_n_100_r_0.2.p_0.5](Datasets/random#random.m_100_n_100_r_0.2.p_0.5) |    | 100 x 100  | 5,118 | 51.2% | 
+
 ## Acknowledgement & Citation
 
 When publishing results obtained using this benchmark, the original dataset authors should be cited. Please use the following BibTeX citation for citing this benchmark:
