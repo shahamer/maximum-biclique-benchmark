@@ -19,6 +19,12 @@ The following synthetic datasets have the following format:
 The datasets reflects the datasets used in the paper [_On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types_](https://github.com/shahamer/maximum-biclique-benchmark#references) -- three datasets for each of the following figures: Fig.8, Fig.9, Fig.11_a, Fig.11_b, and Fig.11_c. 
 
 
+Another synthetic dataset has the following format: 
+* RegularErdosRenyi: random.m\_{|U|}\_n\_{|V|}\_r\_{r}\_p\_{ρ}
+
+Similar to the above synthetic dataset, this dataset reflects random matrices of size {|U|} x {|V|} of density {ρ}, and planted bicliques of size {r}{|U|} x {r}{|V|}.
+
+
 ## random.m_10000_n_1000_p_0.02
 * name:	random.m_10000_n_1000_p_0.02
 * source: [random.m_10000_n_1000_p_0.02.txt](random.m_10000_n_1000_p_0.02.txt.7z)
