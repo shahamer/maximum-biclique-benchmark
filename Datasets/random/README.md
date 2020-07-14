@@ -259,3 +259,52 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 * time to max biclique: 18.1 sec
 * overall run-time: 3.1 min
 
+
+## random.m_100_n_100_r_0.2.p_0.2
+* name:	random.m_100_n_100_r_0.2.p_0.2
+* source: [random.m_100_n_100_r_0.2.p_0.2.txt](random.m_100_n_100_r_0.2.p_0.2.txt.7z)
+* nodes: 100 x 100
+* edges: 2,381
+* density: 23.81%
+* description: 
+* max{degree(U)} (1 x |J|): 43
+* max{degree(V)} (|I| x 1): 45
+* max biclique (|I| x |J|): 400 = 20 x 20
+* I: 0, 2, 8, 10, 28, 29, 34, 39, 40, 44, 58, 64, 65, 76, 79, 80, 82, 85, 94, 97
+* J: 0, 18, 19, 22, 29, 36, 38, 41, 60, 62, 63, 64, 65, 70, 72, 73, 84, 86, 94, 99
+* time to max biclique: 80.0 msec
+* overall run-time: 173.0 msec
+
+
+## random.m_100_n_100_r_0.2.p_0.5
+* name:	random.m_100_n_100_r_0.2.p_0.5
+* source: [random.m_100_n_100_r_0.2.p_0.5.txt](random.m_100_n_100_r_0.2.p_0.5.txt.7z)
+* nodes: 100 x 100
+* edges: 5,118
+* density: 51.18%
+* description: 
+* max{degree(U)} (1 x |J|): 68
+* max{degree(V)} (|I| x 1): 68
+* max biclique (|I| x |J|): 400 = 20 x 20
+* I: 0, 3, 7, 18, 33, 34, 35, 37, 43, 50, 52, 54, 55, 57, 58, 70, 78, 82, 93, 94
+* J: 0, 6, 7, 15, 20, 23, 25, 28, 33, 37, 42, 52, 56, 63, 64, 72, 75, 85, 86, 89
+* time to max biclique: 101.0 msec
+* overall run-time: 6.4 sec
+
+
+## random.m_100_n_100_r_0.2.p_0.8
+* name:	random.m_100_n_100_r_0.2.p_0.8
+* source: [random.m_100_n_100_r_0.2.p_0.8.txt](random.m_100_n_100_r_0.2.p_0.8.txt.7z)
+* nodes: 100 x 100
+* edges: 8,067
+* density: 80.67%
+* description: 
+* max{degree(U)} (1 x |J|): 68
+* max{degree(V)} (|I| x 1): 68
+* max biclique (|I| x |J|): 400 = 20 x 20
+* I: 
+* J: 
+* time to max biclique: 101.0 msec
+* overall run-time: 6.4 sec
+
+
