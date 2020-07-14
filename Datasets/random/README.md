@@ -20,8 +20,8 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 
 ## random.m_10000_n_1000_p_0.02
-* name:	[random.m_10000_n_1000_p_0.02](random.m_10000_n_10000_p_0.02.txt.7z)
-* source: random.m_10000_n_1000_p_0.02.txt
+* name:	random.m_10000_n_1000_p_0.02
+* source: [random.m_10000_n_1000_p_0.02.txt](random.m_10000_n_10000_p_0.02.txt.7z)
 * nodes: 10,000 x 1,000
 * edges: 200,000
 * density: 2.0%
