@@ -272,7 +272,7 @@ Similar to the above synthetic dataset, this dataset reflects random matrices of
 * nodes: 100 x 100
 * edges: 2,381
 * density: 23.81%
-* description: a random matrix of size 100 x 100 of density 0.2, and a planted biclique of size 20 x 20 (=0.2x100 x 0.2x100)
+* description: a random matrix of size 100 x 100 of density 0.2, and a planted biclique of size 20 x 20
 * max{degree(U)} (1 x |J|): 43
 * max{degree(V)} (|I| x 1): 45
 * max biclique (|I| x |J|): 400 = 20 x 20
@@ -288,7 +288,7 @@ Similar to the above synthetic dataset, this dataset reflects random matrices of
 * nodes: 100 x 100
 * edges: 5,118
 * density: 51.18%
-* description: 
+* description: a random matrix of size 100 x 100 of density 0.5, and a planted biclique of size 20 x 20
 * max{degree(U)} (1 x |J|): 68
 * max{degree(V)} (|I| x 1): 68
 * max biclique (|I| x |J|): 400 = 20 x 20
@@ -304,7 +304,7 @@ Similar to the above synthetic dataset, this dataset reflects random matrices of
 * nodes: 100 x 100
 * edges: 
 * density: 
-* description: 
+* description: a random matrix of size 100 x 100 of density 0.8, and a planted biclique of size 20 x 20
 * max{degree(U)} (1 x |J|): 
 * max{degree(V)} (|I| x 1): 
 * max biclique (|I| x |J|): 400 = 20 x 20
