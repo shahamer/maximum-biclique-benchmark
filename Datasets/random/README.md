@@ -260,9 +260,9 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 * overall run-time: 3.1 min
 
 
-## random.m_100_n_100_r_0.2.p_0.2
-* name:	random.m_100_n_100_r_0.2.p_0.2
-* source: [random.m_100_n_100_r_0.2.p_0.2.txt](random.m_100_n_100_r_0.2.p_0.2.txt.7z)
+## random.m_100_n_100_r_0.2_p_0.2
+* name:	random.m_100_n_100_r_0.2_p_0.2
+* source: [random.m_100_n_100_r_0.2_p_0.2.txt](random.m_100_n_100_r_0.2_p_0.2.txt.7z)
 * nodes: 100 x 100
 * edges: 2,381
 * density: 23.81%
