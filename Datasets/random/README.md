@@ -19,7 +19,7 @@ The following synthetic datasets have the following format:
 The datasets reflects the datasets used in the paper [_On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types_](https://github.com/shahamer/maximum-biclique-benchmark#references) -- three datasets for each of the following figures: Fig.8, Fig.9, Fig.11_a, Fig.11_b, and Fig.11_c. 
 
 
-## random.m_10000_n_1000_p_0.02
+## [random.m_10000_n_1000_p_0.02](random.m_10000_n_10000_p_0.02.txt.7z)
 * name:	random.m_10000_n_1000_p_0.02
 * source: random.m_10000_n_1000_p_0.02.txt
 * nodes: 10,000 x 1,000
