@@ -11,7 +11,7 @@
 * [Acknowledgement & Citation](#acknowledgement--citation)
 * [References](#references)
  
-## [Real World Datasets](Datasets/random/README.md)
+## [Real World Datasets]
 
 | dataset info    |  max biclique |       nodes      | edges         |  density         | 
 |:-----------------|-----:|-------:|-----:|------:|
@@ -27,7 +27,7 @@
 | [com-Orkut](Datasets/snap.stanford.edu/com-Orkut) | 16,726 | 2,723,360 x 3,072,440 | 117,185,083 | 0.0014% | 
 
 
-## Synthetic Datasets
+## [Synthetic Datasets](Datasets/random/README.md)
 
 | dataset info    |  max biclique |       nodes      | edges         |  density         | 
 |:-----------------|--------------------:|---------------:|--------------:|--------------:|
