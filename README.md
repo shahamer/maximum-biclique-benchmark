@@ -31,7 +31,7 @@
 
 | dataset info    |  max biclique |       nodes      | edges         |  density         | 
 |:-----------------|--------------------:|---------------:|--------------:|--------------:|
-| [random.m_10000_n_1000_p_0.02](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_1000_p_002)| 32 | 10,000 x 1,000 | 200,000   |  2% | 
+| [random.m_10000_n_1000_p_0.02](Datasets/random#randomm_10000_n_1000_p_002)| 32 | 10,000 x 1,000 | 200,000   |  2% | 
 | [random.m_10000_n_5000_p_0.02](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_5000_p_002) | 36 |  10,000 x 5,000 | 1,000,000 | 2% | 
 | [random.m_10000_n_10000_p_0.02](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_10000_p_002) | 38 | 10,000 x 10,000 | 2,000,000 | 2% |
 | [random.m_10000_n_1000_p_0.045_cv_0.3](https://github.com/shahamer/maximum-biclique-benchmark/tree/master/Datasets/random#randomm_10000_n_1000_p_0045_cv_03) | 96 | 9,992 x 1,000 | 450,042 | 4.5% | 
