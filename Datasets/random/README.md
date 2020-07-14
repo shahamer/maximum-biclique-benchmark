@@ -276,9 +276,9 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 * overall run-time: 173.0 msec
 
 
-## random.m_100_n_100_r_0.2.p_0.5
-* name:	random.m_100_n_100_r_0.2.p_0.5
-* source: [random.m_100_n_100_r_0.2.p_0.5.txt](random.m_100_n_100_r_0.2.p_0.5.txt.7z)
+## random.m_100_n_100_r_0.2_p_0.5
+* name:	random.m_100_n_100_r_0.2_p_0.5
+* source: [random.m_100_n_100_r_0.2_p_0.5.txt](random.m_100_n_100_r_0.2_p_0.5.txt.7z)
 * nodes: 100 x 100
 * edges: 5,118
 * density: 51.18%
@@ -292,9 +292,9 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 * overall run-time: 6.4 sec
 
 
-## random.m_100_n_100_r_0.2.p_0.8
-* name:	random.m_100_n_100_r_0.2.p_0.8
-* source: [random.m_100_n_100_r_0.2.p_0.8.txt](random.m_100_n_100_r_0.2.p_0.8.txt.7z)
+## random.m_100_n_100_r_0.2_p_0.8
+* name:	random.m_100_n_100_r_0.2_p_0.8
+* source: [random.m_100_n_100_r_0.2_p_0.8.txt](random.m_100_n_100_r_0.2_p_0.8.txt.7z)
 * nodes: 100 x 100
 * edges: 8,067
 * density: 80.67%
