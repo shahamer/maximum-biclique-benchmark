@@ -46,7 +46,7 @@
 | [random.m_5000_n_500_p_0.03](Datasets/random#randomm_5000_n_500_p_003) | 32 | 5,000 x 500 | 75,000 | 3% | 
 | [random.m_25000_n_500_p_0.03](Datasets/random#randomm_25000_n_500_p_003) | 90 | 25,000 x 500 | 375,000 | 3% | 
 | [random.m_50000_n_500_p_0.03](Datasets/random#randomm_50000_n_500_p_003) |  150 | 50,000 x 500  | 750,000 | 3% | 
-| [random.m_100_n_100_r_0.2.p_0.2](Datasets/random#random.m_100_n_100_r_0.2.p_0.2) |    | 100 x 100  | 2,381 | 23.81% |  
+| [random.m_100_n_100_r_0.2.p_0.2](https://github.com/shahamer/maximum-biclique-benchmark/blob/master/Datasets/random/README.md#randomm_50000_n_500_p_003) |    | 100 x 100  | 2,381 | 23.81% |  
 | [random.m_100_n_100_r_0.2.p_0.5](Datasets/random#random.m_100_n_100_r_0.2.p_0.5) |    | 100 x 100  | 5,118 | 51.18% | 
 | [random.m_100_n_100_r_0.2.p_0.8](Datasets/random#random.m_100_n_100_r_0.2.p_0.8) |    | 100 x 100  | 8,067 | 80.67% | 
 | [random.m_100_n_100_r_0.5.p_0.2](Datasets/random#random.m_100_n_100_r_0.5.p_0.2) |    | 100 x 100  | 4,008 | 40.08% | 
