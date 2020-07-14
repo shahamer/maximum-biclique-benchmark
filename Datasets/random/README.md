@@ -21,7 +21,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_10000_n_1000_p_0.02
 * name:	random.m_10000_n_1000_p_0.02
-* source: [random.m_10000_n_1000_p_0.02.txt](random.m_10000_n_10000_p_0.02.txt.7z)
+* source: [random.m_10000_n_1000_p_0.02.txt](random.m_10000_n_1000_p_0.02.txt.7z)
 * nodes: 10,000 x 1,000
 * edges: 200,000
 * density: 2.0%
@@ -37,7 +37,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_10000_n_5000_p_0.02
 * name:	random.m_10000_n_5000_p_0.02
-* source: random.m_10000_n_5000_p_0.02.txt
+* source: [random.m_10000_n_5000_p_0.02.txt](random.m_10000_n_5000_p_0.02.txt.7z)
 * nodes: 10,000 x 5,000
 * edges: 1,000,000
 * density: 2.0%
@@ -53,7 +53,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_10000_n_10000_p_0.02
 * name:	random.m_10000_n_10000_p_0.02
-* source: random.m_10000_n_10000_p_0.02.txt
+* source: [random.m_10000_n_10000_p_0.02.txt](random.m_10000_n_10000_p_0.02.txt.7z)
 * nodes: 10,000 x 10,000
 * edges: 2,000,000
 * density: 2.0%
@@ -69,7 +69,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_10000_n_1000_p_0.045_cv_0.3
 * name:	random.m_10000_n_1000_p_0.045_cv_0.3
-* source: random.m_10000_n_1000_p_0.045_cv_0.3.txt
+* source: [random.m_10000_n_1000_p_0.045_cv_0.3.txt](random.m_10000_n_1000_p_0.045_cv_0.3.txt.7z)
 * nodes: 9,992 x 1,000
 * edges: 450,042
 * density: 4.5%
@@ -86,7 +86,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_10000_n_1000_p_0.045_cv_0.8
 * name:	random.m_10000_n_1000_p_0.045_cv_0.8
-* source: random.m_10000_n_1000_p_0.045_cv_0.8.txt
+* source: [random.m_10000_n_1000_p_0.045_cv_0.8.txt](random.m_10000_n_1000_p_0.045_cv_0.8.txt.7z)
 * nodes: 8,928 x 1,000
 * edges: 468,303
 * density: 5.245%
@@ -102,7 +102,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_10000_n_1000_p_0.045_cv_1.3
 * name:	random.m_10000_n_1000_p_0.045_cv_1.3
-* source: random.m_10000_n_1000_p_0.045_cv_1.3.txt
+* source: [random.m_10000_n_1000_p_0.045_cv_1.3.txt](random.m_10000_n_1000_p_0.045_cv_1.3.txt.7z)
 * nodes: 7,781 x 1,000
 * edges: 522,023
 * density: 6.7%
@@ -118,7 +118,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_300_n_300_p_0.1
 * name:	random.m_300_n_300_p_0.1
-* source: random.m_300_n_300_p_0.1.txt
+* source: [random.m_300_n_300_p_0.1.txt](random.m_300_n_300_p_0.1.txt.7z)
 * nodes: 300 x 300
 * edges: 9,000
 * density: 10.0%
@@ -134,7 +134,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_300_n_300_p_0.2
 * name:	random.m_300_n_300_p_0.2
-* source: random.m_300_n_300_p_0.2.txt
+* source: [random.m_300_n_300_p_0.2.txt](random.m_300_n_300_p_0.2.txt.7z)
 * nodes: 300 x 300
 * edges: 18,000
 * density: 20.0%
@@ -150,7 +150,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_300_n_300_p_0.3
 * name:	random.m_300_n_300_p_0.3
-* source: random.m_300_n_300_p_0.3.txt
+* source: [random.m_300_n_300_p_0.3.txt](random.m_300_n_300_p_0.3.txt.7z)
 * nodes: 300 x 300
 * edges: 27,000
 * density: 30.0%
@@ -166,7 +166,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_10000_n_100_p_0.03
 * name:	random.m_10000_n_100_p_0.03
-* source: random.m_10000_n_100_p_0.03.txt
+* source: [random.m_10000_n_100_p_0.03.txt](random.m_10000_n_100_p_0.03.txt.7z)
 * nodes: 9,513 x 100
 * edges: 30,000
 * density: 3.15%
@@ -182,7 +182,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_10000_n_500_p_0.03
 * name:	random.m_10000_n_500_p_0.03
-* source: random.m_10000_n_500_p_0.03.txt
+* source: [random.m_10000_n_500_p_0.03.txt](random.m_10000_n_500_p_0.03.txt.7z)
 * nodes: 10,000 x 500
 * edges: 150,000
 * density: 3.0%
@@ -198,7 +198,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_10000_n_1000_p_0.03
 * name:	random.m_10000_n_1000_p_0.03
-* source: random.m_10000_n_1000_p_0.03.txt
+* source: [random.m_10000_n_1000_p_0.03.txt](random.m_10000_n_1000_p_0.03.txt.7z)
 * nodes: 10,000 x 1,000
 * edges: 300,000
 * density: 3.0%
@@ -214,7 +214,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_5000_n_500_p_0.03
 * name:	random.m_5000_n_500_p_0.03
-* source: random.m_5000_n_500_p_0.03.txt
+* source: [random.m_5000_n_500_p_0.03.txt](random.m_5000_n_500_p_0.03.txt.7z)
 * nodes: 5,000 x 500
 * edges: 75,000
 * density: 3.0%
@@ -230,7 +230,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_25000_n_500_p_0.03
 * name:	random.m_25000_n_500_p_0.03
-* source: random.m_25000_n_500_p_0.03.txt
+* source: [random.m_25000_n_500_p_0.03.txt](random.m_25000_n_500_p_0.03.txt.7z)
 * nodes: 25,000 x 500
 * edges: 375,000
 * density: 3.0%
@@ -246,7 +246,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 
 ## random.m_50000_n_500_p_0.03
 * name:	random.m_50000_n_500_p_0.03
-* source: random.m_50000_n_500_p_0.03.txt
+* source: [random.m_50000_n_500_p_0.03.txt](random.m_50000_n_500_p_0.03.txt.7z)
 * nodes: 50,000 x 500
 * edges: 750,000
 * density: 3.0%
