@@ -272,7 +272,7 @@ Similar to the above synthetic dataset, this dataset reflects random matrices of
 * nodes: 100 x 100
 * edges: 2,381
 * density: 23.81%
-* description: a random matrix of size 100 x 100 of density 0.2, and a planted biclique of size 20 x 20
+* description: a random matrix of size 100 x 100 and density 0.2, with planted biclique of size 20 x 20
 * max{degree(U)} (1 x |J|): 43
 * max{degree(V)} (|I| x 1): 45
 * max biclique (|I| x |J|): 400 = 20 x 20
@@ -288,7 +288,7 @@ Similar to the above synthetic dataset, this dataset reflects random matrices of
 * nodes: 100 x 100
 * edges: 5,118
 * density: 51.18%
-* description: a random matrix of size 100 x 100 of density 0.5, and a planted biclique of size 20 x 20
+* description: a random matrix of size 100 x 100 and density 0.5, with planted biclique of size 20 x 20
 * max{degree(U)} (1 x |J|): 68
 * max{degree(V)} (|I| x 1): 68
 * max biclique (|I| x |J|): 400 = 20 x 20
@@ -304,7 +304,7 @@ Similar to the above synthetic dataset, this dataset reflects random matrices of
 * nodes: 100 x 100
 * edges: 
 * density: 
-* description: a random matrix of size 100 x 100 of density 0.8, and a planted biclique of size 20 x 20
+* description: a random matrix of size 100 x 100 and density 0.8, with planted biclique of size 20 x 20
 * max{degree(U)} (1 x |J|): 
 * max{degree(V)} (|I| x 1): 
 * max biclique (|I| x |J|): 400 = 20 x 20
@@ -313,4 +313,99 @@ Similar to the above synthetic dataset, this dataset reflects random matrices of
 * time to max biclique: 
 * overall run-time: 
 
+
+## random.m_100_n_100_r_0.5_p_0.2
+* name:	random.m_100_n_100_r_0.5_p_0.2
+* source: [random.m_100_n_100_r_0.5_p_0.2.txt](random.m_100_n_100_r_0.5_p_0.2.txt.7z)
+* nodes: 100 x 100
+* edges: 
+* density: 
+* description: a random matrix of size 100 x 100 and density 0.2, with planted biclique of size 50 x 50
+* max{degree(U)} (1 x |J|): 
+* max{degree(V)} (|I| x 1): 
+* max biclique (|I| x |J|): 2,500 = 50 x 50
+* I: 
+* J: 
+* time to max biclique: 
+* overall run-time: 
+
+
+## random.m_100_n_100_r_0.5_p_0.5
+* name:	random.m_100_n_100_r_0.5_p_0.5
+* source: [random.m_100_n_100_r_0.5_p_0.5.txt](random.m_100_n_100_r_0.5_p_0.5.txt.7z)
+* nodes: 100 x 100
+* edges: 
+* density: 
+* description: a random matrix of size 100 x 100 and density 0.5, with planted biclique of size 50 x 50
+* max{degree(U)} (1 x |J|): 
+* max{degree(V)} (|I| x 1): 
+* max biclique (|I| x |J|): 2,500 = 50 x 50
+* I: 
+* J: 
+* time to max biclique: 
+* overall run-time: 
+
+
+## random.m_100_n_100_r_0.5_p_0.8
+* name:	random.m_100_n_100_r_0.5_p_0.8
+* source: [random.m_100_n_100_r_0.5_p_0.8.txt](random.m_100_n_100_r_0.5_p_0.8.txt.7z)
+* nodes: 100 x 100
+* edges: 
+* density: 
+* description: a random matrix of size 100 x 100 and density 0.8, with planted biclique of size 50 x 50
+* max{degree(U)} (1 x |J|): 
+* max{degree(V)} (|I| x 1): 
+* max biclique (|I| x |J|): 2,500 = 50 x 50
+* I: 
+* J: 
+* time to max biclique: 
+* overall run-time: 
+
+
+## random.m_100_n_100_r_0.8_p_0.2
+* name:	random.m_100_n_100_r_0.8_p_0.2
+* source: [random.m_100_n_100_r_0.8_p_0.2.txt](random.m_100_n_100_r_0.8_p_0.2.txt.7z)
+* nodes: 100 x 100
+* edges: 
+* density: 
+* description: a random matrix of size 100 x 100 and density 0.2, with planted biclique of size 80 x 80
+* max{degree(U)} (1 x |J|): 
+* max{degree(V)} (|I| x 1): 
+* max biclique (|I| x |J|): 6,400 = 80 x 80
+* I: 
+* J: 
+* time to max biclique: 
+* overall run-time: 
+
+
+## random.m_100_n_100_r_0.8_p_0.5
+* name:	random.m_100_n_100_r_0.8_p_0.5
+* source: [random.m_100_n_100_r_0.8_p_0.5.txt](random.m_100_n_100_r_0.8_p_0.5.txt.7z)
+* nodes: 100 x 100
+* edges: 
+* density: 
+* description: a random matrix of size 100 x 100 and density 0.5, with planted biclique of size 80 x 80
+* max{degree(U)} (1 x |J|): 
+* max{degree(V)} (|I| x 1): 
+* max biclique (|I| x |J|): 6,400 = 80 x 80
+* I: 
+* J: 
+* time to max biclique: 
+* overall run-time: 
+
+
+## random.m_100_n_100_r_0.8_p_0.8
+* name:	random.m_100_n_100_r_0.8_p_0.8
+* source: [random.m_100_n_100_r_0.8_p_0.8.txt](random.m_100_n_100_r_0.8_p_0.8.txt.7z)
+* nodes: 100 x 100
+* edges: 
+* density: 
+* description: a random matrix of size 100 x 100 and density 0.8, with planted biclique of size 80 x 80
+* max{degree(U)} (1 x |J|): 
+* max{degree(V)} (|I| x 1): 
+* max biclique (|I| x |J|): 6,400 = 80 x 80
+* I: 
+* J: 
+* time to max biclique: 
+* overall run-time: 
 
