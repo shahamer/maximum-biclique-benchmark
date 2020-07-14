@@ -11,7 +11,7 @@
 * [Acknowledgement & Citation](#acknowledgement--citation)
 * [References](#references)
  
-## [Real World Datasets]
+## Real World Datasets
 
 | dataset info    |  max biclique |       nodes      | edges         |  density         | 
 |:-----------------|-----:|-------:|-----:|------:|
