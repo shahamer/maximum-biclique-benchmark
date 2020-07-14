@@ -1,6 +1,6 @@
 
 # Introduction 
-The class RandomBipartiteGraph.java contains the following two static functions for generating random bipartite graphs: 
+The class [RandomBipartiteGraph.java](RandomBipartiteGraph.java) contains the following two static functions for generating random bipartite graphs: 
 * RegularErdosRenyi: Erdős–Rényi random bipartite graph model.
 Each possible edge in the bipartite graph has a probability ρ, independent of other edges, to be included in the graph. The probability ρ is also referred to as “density”.
 * ModifiedErdosRenyi: a modified Erdős–Rényi random bipartite graph model.
