@@ -22,7 +22,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 Another synthetic dataset has the following format: 
 * RegularErdosRenyi: random.m\_{|U|}\_n\_{|V|}\_r\_{r}\_p\_{ρ}
 
-Similar to the above synthetic dataset, this dataset reflects random matrices of size {|U|} x {|V|} of density {ρ}, and planted bicliques of size {r}{|U|} x {r}{|V|}.
+Similar to the above synthetic dataset, this dataset reflects random matrices of size |U|x|V| of density ρ, and planted bicliques of size r|U|} x r|V|.
 
 
 ## random.m_10000_n_1000_p_0.02
