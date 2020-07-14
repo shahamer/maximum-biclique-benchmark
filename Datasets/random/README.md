@@ -299,7 +299,7 @@ The datasets reflects the datasets used in the paper [_On finding bicliques in b
 * edges: 8,067
 * density: 80.67%
 * description: 
-* max{degree(U)} (1 x |J|): 68
+* max{degree(U)} (1 x |J|): 
 * max{degree(V)} (|I| x 1): 68
 * max biclique (|I| x |J|): 400 = 20 x 20
 * I: 
