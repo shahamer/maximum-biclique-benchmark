@@ -46,15 +46,15 @@
 | [random.m_5000_n_500_p_0.03](Datasets/random#randomm_5000_n_500_p_003) | 32 | 5,000 x 500 | 75,000 | 3% | 
 | [random.m_25000_n_500_p_0.03](Datasets/random#randomm_25000_n_500_p_003) | 90 | 25,000 x 500 | 375,000 | 3% | 
 | [random.m_50000_n_500_p_0.03](Datasets/random#randomm_50000_n_500_p_003) |  150 | 50,000 x 500  | 750,000 | 3% | 
-| [random.m_100_n_100_r_0.2_p_0.2](Datasets/random#randomm_100_n_100_r_02_p_02) |    | 100 x 100  | 2,381 | 23.81% |  
-| [random.m_100_n_100_r_0.2_p_0.5](Datasets/random#randomm_100_n_100_r_02_p_05) |    | 100 x 100  | 5,118 | 51.18% | 
-| [random.m_100_n_100_r_0.2_p_0.8](Datasets/random#randomm_100_n_100_r_02_p_08) |    | 100 x 100  | 8,067 | 80.67% | 
-| [random.m_100_n_100_r_0.5_p_0.2](Datasets/random#randomm_100_n_100_r_05_p_02) |    | 100 x 100  | 4,008 | 40.08% | 
-| [random.m_100_n_100_r_0.5_p_0.5](Datasets/random#randomm_100_n_100_r_05_p_05) |    | 100 x 100  | 6,269 | 62.69% | 
-| [random.m_100_n_100_r_0.5_p_0.8](Datasets/random#randomm_100_n_100_r_05_p_08) |    | 100 x 100  | 8,495 | 84.95% | 
-| [random.m_100_n_100_r_0.8_p_0.2](Datasets/random#randomm_100_n_100_r_08_p_02) |    | 100 x 100  | 7,157 | 71.57% | 
-| [random.m_100_n_100_r_0.8_p_0.5](Datasets/random#randomm_100_n_100_r_08_p_05) |    | 100 x 100  | 8,206 | 82.06% | 
-| [random.m_100_n_100_r_0.8_p_0.8](Datasets/random#randomm_100_n_100_r_08_p_08) |    | 100 x 100  | 9,269 | 92.69% | 
+| [random.m_100_n_100_r_0.2_p_0.2](Datasets/random#randomm_100_n_100_r_02_p_02) | 400 | 100 x 100  | 2,381 | 23.81% |  
+| [random.m_100_n_100_r_0.2_p_0.5](Datasets/random#randomm_100_n_100_r_02_p_05) | 400 | 100 x 100  | 5,118 | 51.18% | 
+| [random.m_100_n_100_r_0.2_p_0.8](Datasets/random#randomm_100_n_100_r_02_p_08) | 456 | 100 x 100  | 8,067 | 80.67% | 
+| [random.m_100_n_100_r_0.5_p_0.2](Datasets/random#randomm_100_n_100_r_05_p_02) | 2,500 | 100 x 100  | 4,008 | 40.08% | 
+| [random.m_100_n_100_r_0.5_p_0.5](Datasets/random#randomm_100_n_100_r_05_p_05) | 2,500 | 100 x 100  | 6,269 | 62.69% | 
+| [random.m_100_n_100_r_0.5_p_0.8](Datasets/random#randomm_100_n_100_r_05_p_08) | 2,500 | 100 x 100  | 8,495 | 84.95% | 
+| [random.m_100_n_100_r_0.8_p_0.2](Datasets/random#randomm_100_n_100_r_08_p_02) | 6,400 | 100 x 100  | 7,157 | 71.57% | 
+| [random.m_100_n_100_r_0.8_p_0.5](Datasets/random#randomm_100_n_100_r_08_p_05) | 6,400 | 100 x 100  | 8,206 | 82.06% | 
+| [random.m_100_n_100_r_0.8_p_0.8](Datasets/random#randomm_100_n_100_r_08_p_08) | 6,400 | 100 x 100  | 9,269 | 92.69% | 
 
 ## Acknowledgement & Citation
 
