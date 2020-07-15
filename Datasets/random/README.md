@@ -280,7 +280,7 @@ The dataset aims to demonstrate the impact of density (noise) on exploration tim
 * I: 0, 2, 8, 10, 28, 29, 34, 39, 40, 44, 58, 64, 65, 76, 79, 80, 82, 85, 94, 97
 * J: 0, 18, 19, 22, 29, 36, 38, 41, 60, 62, 63, 64, 65, 70, 72, 73, 84, 86, 94, 99
 * time to max biclique: 80.0 msec
-* overall run-time: 173.0 msec
+* overall run-time: 151.0 msec
 
 
 ## random.m_100_n_100_r_0.2_p_0.5
@@ -295,118 +295,118 @@ The dataset aims to demonstrate the impact of density (noise) on exploration tim
 * max biclique (|I| x |J|): 400 = 20 x 20
 * I: 0, 3, 7, 18, 33, 34, 35, 37, 43, 50, 52, 54, 55, 57, 58, 70, 78, 82, 93, 94
 * J: 0, 6, 7, 15, 20, 23, 25, 28, 33, 37, 42, 52, 56, 63, 64, 72, 75, 85, 86, 89
-* time to max biclique: 101.0 msec
-* overall run-time: 6.4 sec
+* time to max biclique: 83.0 msec
+* overall run-time: 6.1 sec
 
 
 ## random.m_100_n_100_r_0.2_p_0.8
 * name:	random.m_100_n_100_r_0.2_p_0.8
 * source: [random.m_100_n_100_r_0.2_p_0.8.txt](random.m_100_n_100_r_0.2_p_0.8.txt.7z)
 * nodes: 100 x 100
-* edges: 
-* density: 
+* edges: 8,067
+* density: 80.67%
 * description: a random matrix of size 100 x 100 and density 0.8, with planted biclique of size 20 x 20
-* max{degree(U)} (1 x |J|): 
-* max{degree(V)} (|I| x 1): 
-* max biclique (|I| x |J|): 400 = 20 x 20
-* I: 
-* J: 
-* time to max biclique: 
-* overall run-time: 
+* max{degree(U)} (1 x |J|): 93
+* max{degree(V)} (|I| x 1): 90
+* max biclique (|I| x |J|): 456 = 24 x 19
+* I: 0, 6, 9, 12, 14, 18, 25, 32, 35, 38, 39, 40, 42, 45, 52, 62, 66, 67, 71, 72, 77, 83, 97, 99
+* J: 0, 2, 7, 9, 12, 17, 20, 31, 40, 45, 46, 60, 61, 69, 74, 77, 79, 94, 97
+* time to max biclique: 37.1 min
+* overall run-time: 8.5 hour
 
 
 ## random.m_100_n_100_r_0.5_p_0.2
 * name:	random.m_100_n_100_r_0.5_p_0.2
 * source: [random.m_100_n_100_r_0.5_p_0.2.txt](random.m_100_n_100_r_0.5_p_0.2.txt.7z)
 * nodes: 100 x 100
-* edges: 
-* density: 
+* edges: 4,008
+* density: 40.08%
 * description: a random matrix of size 100 x 100 and density 0.2, with planted biclique of size 50 x 50
-* max{degree(U)} (1 x |J|): 
-* max{degree(V)} (|I| x 1): 
+* max{degree(U)} (1 x |J|): 67
+* max{degree(V)} (|I| x 1): 66
 * max biclique (|I| x |J|): 2,500 = 50 x 50
-* I: 
-* J: 
-* time to max biclique: 
-* overall run-time: 
+* I: 0, 1, 4, 6, 17, 18, 19, 22, 25, 26, 28, 31, 33, 35, 36, 38, 39, 41, 42, 43, 44, 48, 49, 50, 51, 52, 53, 55, 59, 61, 62, 63, 66, 67, 71, 72, 73, 74, 75, 76, 77, 79, 80, 81, 83, 85, 87, 88, 89, 95
+* J: 0, 1, 2, 3, 6, 7, 8, 10, 11, 12, 13, 17, 18, 19, 22, 23, 24, 27, 28, 30, 32, 33, 37, 38, 39, 42, 46, 48, 49, 51, 53, 54, 56, 59, 61, 62, 64, 65, 67, 73, 74, 75, 78, 82, 83, 87, 91, 92, 95, 98
+* time to max biclique: 104.0 msec
+* overall run-time: 171.0 msec
 
 
 ## random.m_100_n_100_r_0.5_p_0.5
 * name:	random.m_100_n_100_r_0.5_p_0.5
 * source: [random.m_100_n_100_r_0.5_p_0.5.txt](random.m_100_n_100_r_0.5_p_0.5.txt.7z)
 * nodes: 100 x 100
-* edges: 
-* density: 
+* edges: 6,269
+* density: 62.69%
 * description: a random matrix of size 100 x 100 and density 0.5, with planted biclique of size 50 x 50
-* max{degree(U)} (1 x |J|): 
-* max{degree(V)} (|I| x 1): 
+* max{degree(U)} (1 x |J|): 83
+* max{degree(V)} (|I| x 1): 81
 * max biclique (|I| x |J|): 2,500 = 50 x 50
-* I: 
-* J: 
-* time to max biclique: 
-* overall run-time: 
+* I: 0, 1, 2, 3, 4, 8, 11, 13, 15, 18, 19, 20, 21, 22, 24, 30, 32, 33, 35, 37, 38, 39, 40, 41, 42, 47, 51, 52, 53, 55, 56, 60, 65, 67, 70, 71, 72, 73, 74, 75, 80, 81, 82, 83, 84, 89, 94, 95, 96, 98
+* J: 0, 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 19, 21, 22, 26, 28, 29, 37, 38, 39, 41, 42, 43, 44, 48, 50, 54, 55, 56, 57, 61, 66, 68, 70, 72, 77, 81, 84, 85, 86, 87, 91, 92, 95, 96, 97, 98, 99
+* time to max biclique: 118.0 msec
+* overall run-time: 21.2 sec
 
 
 ## random.m_100_n_100_r_0.5_p_0.8
 * name:	random.m_100_n_100_r_0.5_p_0.8
 * source: [random.m_100_n_100_r_0.5_p_0.8.txt](random.m_100_n_100_r_0.5_p_0.8.txt.7z)
 * nodes: 100 x 100
-* edges: 
-* density: 
+* edges: 8,495
+* density: 84.95%
 * description: a random matrix of size 100 x 100 and density 0.8, with planted biclique of size 50 x 50
-* max{degree(U)} (1 x |J|): 
-* max{degree(V)} (|I| x 1): 
+* max{degree(U)} (1 x |J|): 95
+* max{degree(V)} (|I| x 1): 96
 * max biclique (|I| x |J|): 2,500 = 50 x 50
-* I: 
-* J: 
-* time to max biclique: 
-* overall run-time: 
+* I: 0, 1, 3, 4, 7, 8, 10, 13, 16, 17, 19, 20, 23, 24, 25, 30, 31, 32, 36, 37, 40, 41, 42, 44, 46, 48, 50, 51, 53, 55, 56, 58, 60, 63, 66, 68, 71, 75, 76, 78, 81, 82, 84, 86, 88, 89, 93, 95, 97, 99
+* J: 0, 1, 5, 6, 8, 10, 16, 17, 20, 21, 22, 25, 26, 28, 30, 31, 34, 37, 41, 44, 47, 49, 53, 54, 56, 61, 62, 68, 70, 71, 73, 74, 75, 78, 80, 81, 82, 83, 84, 85, 86, 87, 88, 90, 92, 94, 96, 97, 98, 99
+* time to max biclique: 289.0 msec
+* overall run-time: 22.4 sec
 
 
 ## random.m_100_n_100_r_0.8_p_0.2
 * name:	random.m_100_n_100_r_0.8_p_0.2
 * source: [random.m_100_n_100_r_0.8_p_0.2.txt](random.m_100_n_100_r_0.8_p_0.2.txt.7z)
 * nodes: 100 x 100
-* edges: 
-* density: 
+* edges: 7,157
+* density: 71.57%
 * description: a random matrix of size 100 x 100 and density 0.2, with planted biclique of size 80 x 80
-* max{degree(U)} (1 x |J|): 
-* max{degree(V)} (|I| x 1): 
+* max{degree(U)} (1 x |J|): 88
+* max{degree(V)} (|I| x 1): 89
 * max biclique (|I| x |J|): 6,400 = 80 x 80
-* I: 
-* J: 
-* time to max biclique: 
-* overall run-time: 
+* I: 0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 19, 20, 24, 25, 26, 27, 28, 30, 31, 33, 34, 35, 38, 39, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 57, 59, 60, 61, 62, 63, 64, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 83, 84, 85, 86, 87, 88, 90, 91, 92, 94, 95, 96, 98
+* J: 0, 1, 2, 3, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46, 48, 50, 51, 52, 53, 56, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 88, 89, 90, 92, 94, 95, 96, 97, 98, 99
+* time to max biclique: 78.0 msec
+* overall run-time: 94.0 msec
 
 
 ## random.m_100_n_100_r_0.8_p_0.5
 * name:	random.m_100_n_100_r_0.8_p_0.5
 * source: [random.m_100_n_100_r_0.8_p_0.5.txt](random.m_100_n_100_r_0.8_p_0.5.txt.7z)
 * nodes: 100 x 100
-* edges: 
-* density: 
+* edges: 8,206
+* density: 82.06%
 * description: a random matrix of size 100 x 100 and density 0.5, with planted biclique of size 80 x 80
-* max{degree(U)} (1 x |J|): 
-* max{degree(V)} (|I| x 1): 
+* max{degree(U)} (1 x |J|): 95
+* max{degree(V)} (|I| x 1): 96
 * max biclique (|I| x |J|): 6,400 = 80 x 80
-* I: 
-* J: 
-* time to max biclique: 
-* overall run-time: 
+* I: 0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 17, 18, 20, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46, 48, 49, 50, 51, 54, 55, 56, 57, 59, 60, 61, 62, 63, 64, 65, 66, 67, 69, 70, 71, 72, 74, 75, 76, 77, 78, 79, 81, 83, 84, 85, 86, 87, 90, 91, 92, 94, 95, 97, 98
+* J: 0, 1, 2, 3, 4, 5, 7, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 26, 27, 28, 30, 32, 33, 34, 35, 37, 38, 39, 41, 43, 44, 45, 47, 48, 49, 51, 52, 53, 55, 56, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, 73, 74, 75, 76, 77, 78, 79, 81, 82, 84, 85, 86, 87, 88, 90, 91, 92, 94, 95, 96, 97, 98, 99
+* time to max biclique: 154.0 msec
+* overall run-time: 237.0 msec
 
 
 ## random.m_100_n_100_r_0.8_p_0.8
 * name:	random.m_100_n_100_r_0.8_p_0.8
 * source: [random.m_100_n_100_r_0.8_p_0.8.txt](random.m_100_n_100_r_0.8_p_0.8.txt.7z)
 * nodes: 100 x 100
-* edges: 
-* density: 
+* edges: 9,269
+* density: 92.69%
 * description: a random matrix of size 100 x 100 and density 0.8, with planted biclique of size 80 x 80
-* max{degree(U)} (1 x |J|): 
-* max{degree(V)} (|I| x 1): 
+* max{degree(U)} (1 x |J|): 99
+* max{degree(V)} (|I| x 1): 100
 * max biclique (|I| x |J|): 6,400 = 80 x 80
-* I: 
-* J: 
-* time to max biclique: 
-* overall run-time: 
+* I: 0, 1, 2, 4, 6, 7, 8, 9, 10, 12, 14, 16, 17, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 32, 33, 35, 37, 38, 39, 40, 41, 42, 43, 44, 48, 49, 50, 52, 53, 54, 55, 56, 57, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 77, 78, 79, 80, 81, 82, 83, 84, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 98, 99
+* J: 0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 38, 39, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 54, 55, 56, 57, 58, 60, 62, 64, 66, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 87, 88, 92, 93, 94, 95, 96, 97, 98, 99
+* time to max biclique: 223.0 msec
+* overall run-time: 21.2 sec
 
