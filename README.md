@@ -97,7 +97,5 @@ BMC Bioinformatics, 15, 2014, pp. 110–127.
 <!-- Peeters, Ren{\'e} -->
 3. Peeters, Rene.
 *The maximum edge biclique problem is NP-complete*.
-Discrete Applied Mathematics, 131(3), 2003, pp. 651–654
-
-
+Discrete Applied Mathematics, 131(3), 2003, pp. 651–654.
 
