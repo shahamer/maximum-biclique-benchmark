@@ -2,7 +2,17 @@
 
 
 ## Introduction
- 
+
+Biclique detection is a well-known problem in graph theory and data mining, with numerous real-world applications across different domain. Take for example text networks depicting the relationship between words and documents. Bicliques reveal documents that share common words, which can later be utilized for automated topic classification and tagging.
+
+Given a bipartite graph and its corresponding partition into two disjoint sets of vertices, a biclique is a complete bipartite subgraph such that every vertex of the first partition is connected to every vertex of the second partition. Mathematically, the notion of biclique is defined as follows. 
+Let G = (U ∪ V, E) be a bipartite graph, where U and V are two disjoint sets of vertices, and E is an edge set such that ∀(i,j) ∈ E, i ∈ U, j ∈ V . A biclique within G is a couple (set pair) (I,J) such that I ⊆ U, J ⊆ V and ∀i ∈ I, j ∈ J, (i,j) ∈ E.
+
+The computational complexity of finding the maximum biclique depends on the exact objective function used. In this benchmark we focus on the maximum edge biclique, i.e., |I| × |J|. Finding a maximum edge biclique was proved to be NP-complete [3].
+
+
+
+
 ## Table of Contents
 
 * [Real World Datasets](#real-world-datasets)
@@ -83,4 +93,11 @@ In SIAM International Conference on Data Mining, 2016, pp. 315–323.
 2. Yun Zhang, Charles A Phillips, Gary L. Rogers, Erich J. Baker, Elissa J. Chesler, and Michael A. Langston. 
 *On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types*.
 BMC Bioinformatics, 15, 2014, pp. 110–127.
+<!--->
+<!-- Peeters, Ren{\'e} -->
+3. Peeters, Rene.
+*The maximum edge biclique problem is NP-complete*.
+Discrete Applied Mathematics, 131(3), 2003, pp. 651–654
+
+Science, 368 (2006), pp. 217–230
 
