@@ -8,7 +8,7 @@ The model enables variability in the degree of vertices: given a bipartite graph
 
 
 If you wish to use the code, please cite the following paper:
-_On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach_ [[1]](https://github.com/shahamer/maximum-biclique-benchmark#references).
+"_On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach_" [[1]](https://github.com/shahamer/maximum-biclique-benchmark#references).
 
 
 # Datasets
@@ -16,7 +16,7 @@ The following synthetic datasets have the following format:
 * RegularErdosRenyi: random.m\_{|U|}\_n\_{|V|}\_p\_{ρ}
 * ModifiedErdosRenyi:  random.m\_{|U|}\_n\_{|V|}\_p\_{ρ}\_cv\_{CV}
 
-The datasets reflects the datasets used in the paper _On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types_ [[2]](https://github.com/shahamer/maximum-biclique-benchmark#references) -- three datasets for each of the article's figures: Fig.8, Fig.9, Fig.11_a, Fig.11_b, and Fig.11_c. 
+The datasets reflects the datasets used in the paper "_On finding bicliques in bipartite graphs: a novel algorithm and its application to the integration of diverse biological data types_" [[2]](https://github.com/shahamer/maximum-biclique-benchmark#references) -- three datasets for each of the article's figures: Fig.8, Fig.9, Fig.11_a, Fig.11_b, and Fig.11_c. 
 
 
 Another synthetic dataset has the following format: 
