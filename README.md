@@ -95,7 +95,7 @@ In SIAM International Conference on Data Mining, 2016, pp. 315–323.
 BMC Bioinformatics, 15, 2014, pp. 110–127.
 <!--->
 <!-- Peeters, Ren{\'e} -->
-3. Peeters, Rene}.
+3. Peeters, Rene.
 *The maximum edge biclique problem is NP-complete*.
 Discrete Applied Mathematics, 131(3), 2003, pp. 651–654.
 
