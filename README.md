@@ -8,7 +8,7 @@ Biclique detection is a well-known problem in graph theory and data mining, with
 Given a bipartite graph and its corresponding partition into two disjoint sets of vertices, a biclique is a complete bipartite subgraph such that every vertex of the first partition is connected to every vertex of the second partition. Mathematically, the notion of biclique is defined as follows. 
 Let G = (U ∪ V, E) be a bipartite graph, where U and V are two disjoint sets of vertices, and E is an edge set such that ∀(i,j) ∈ E, i ∈ U, j ∈ V . A biclique within G is a couple (set pair) (I,J) such that I ⊆ U, J ⊆ V and ∀i ∈ I, j ∈ J, (i,j) ∈ E.
 
-The computational complexity of finding the maximum biclique depends on the exact objective function used. In this benchmark we focus on the maximum edge biclique, i.e., |I| × |J|. Finding a maximum edge biclique was proved to be NP-complete [3].
+The computational complexity of finding the maximum biclique depends on the exact objective function used. In this benchmark we focus on the maximum edge biclique, i.e., |I| × |J|. Finding a maximum edge biclique was proved to be NP-complete [3](https://github.com/shahamer/maximum-biclique-benchmark#references).
 
 
 
