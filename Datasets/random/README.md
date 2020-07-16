@@ -8,7 +8,7 @@ The model enables variability in the degree of vertices: given a bipartite graph
 
 
 If you wish to use the code, please cite the following paper:
-[_On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach_](https://github.com/shahamer/maximum-biclique-benchmark#references) [1].
+_On finding the maximum edge biclique in a bipartite graph: a subspace clustering approach_ [[1]](https://github.com/shahamer/maximum-biclique-benchmark#references).
 
 
 # Datasets
