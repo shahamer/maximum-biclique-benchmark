@@ -99,5 +99,5 @@ BMC Bioinformatics, 15, 2014, pp. 110–127.
 *The maximum edge biclique problem is NP-complete*.
 Discrete Applied Mathematics, 131(3), 2003, pp. 651–654
 
-Science, 368 (2006), pp. 217–230
+
 
