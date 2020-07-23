@@ -39,7 +39,7 @@ The computational complexity of finding the maximum biclique depends on the exac
 
 ## [Synthetic Datasets](Datasets/random/README.md)
 
-| dataset info    |  max biclique |       nodes      | edges         |  density         | 
+| [dataset info](Datasets/random/README.md)    |  max biclique |       nodes      | edges         |  density         | 
 |:-----------------|--------------------:|---------------:|--------------:|--------------:|
 | [random.m_10000_n_1000_p_0.02](Datasets/random#randomm_10000_n_1000_p_002)| 32 | 10,000 x 1,000 | 200,000   |  2% | 
 | [random.m_10000_n_5000_p_0.02](Datasets/random#randomm_10000_n_5000_p_002) | 36 |  10,000 x 5,000 | 1,000,000 | 2% | 
