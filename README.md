@@ -26,7 +26,7 @@ The computational complexity of finding the maximum biclique depends on the exac
 | dataset info    |  max biclique |       nodes      | edges         |  density         | 
 |:-----------------|-----:|-------:|-----:|------:|
 | | | | | | 
-| [SNAP Database](Datasets/snap.stanford.edu/README.md) | | | | | 
+| [snap database](Datasets/snap.stanford.edu/README.md) | | | | | 
 | [com-LiveJournal](Datasets/snap.stanford.edu/com-LiveJournal) | 33,984 | 2,325,297 x 3,996,402 | 34,681,189 | 0.00037% | 
 | [com-Youtube](Datasets/snap.stanford.edu/com-Youtube)  | 8,008 | 374,785 x 1,134,140 | 2,987,624 | 0.00070% | 
 | [wiki-topcats](Datasets/snap.stanford.edu/wiki-topcats) | 126,824 | 1,791,489 x 1,791,489 | 28,511,807 | 0.00089% | 
@@ -35,7 +35,7 @@ The computational complexity of finding the maximum biclique depends on the exac
 | [com-DBLP](Datasets/snap.stanford.edu/com-DBLP)   | 3,249 | 189,114 x 304,374 | 1,049,866 | 0.0018% |
 | [email-Eu-core](Datasets/snap.stanford.edu/email-Eu-core) | 390 | 868 x 991 | 25,571| 2.97% |
 | | | | | | 
-| [KONECT Database](Datasets/konect.uni-koblenz.de/README.md) | | | | | 
+| [konect database](Datasets/konect.uni-koblenz.de/README.md) | | | | | 
 | [movieLens 10M](Datasets/konect.uni-koblenz.de/movielens-10m_rating) | 67,736 | 69,878 x 10,677 | 10,000,054 | 1.34% | 
 | [movieLens 1M](Datasets/konect.uni-koblenz.de/movielens-1m) | 7,002 | 6,040 x 3,706 | 1,000,209 | 4.47% | 
 | [movieLens 100k](Datasets/konect.uni-koblenz.de/movielens-100k_rating) | 1,267 | 943 x 1,682 | 100,000 | 6.30% |  
