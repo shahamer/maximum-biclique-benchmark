@@ -37,8 +37,8 @@ The computational complexity of finding the maximum biclique depends on the exac
 | [dataset info](Datasets/konect.uni-koblenz.de/README.md)    |  max biclique |       nodes      | edges         |  density         | 
 |:-----------------|-----:|-------:|-----:|------:|
 | [movieLens 10M](Datasets/konect.uni-koblenz.de/movielens-10m_rating) | 67,736 | 69,878 x 10,677 | 10,000,054 | 1.34% | 
-| [movieLens 1M](Datasets/konect.uni-koblenz.de/movielens-1m) | 7,002 | 6,040 x 3,706 | 1,000,209 | 4.467% | 
-| [movieLens 100k](Datasets/konect.uni-koblenz.de/movielens-100k_rating) | 1,267 |  943 x 1,682 | 100,000 |   6.3% |  
+| [movieLens 1M](Datasets/konect.uni-koblenz.de/movielens-1m) | 7,002 | 6,040 x 3,706 | 1,000,209 | 4.47% | 
+| [movieLens 100k](Datasets/konect.uni-koblenz.de/movielens-100k_rating) | 1,267 | 943 x 1,682 | 100,000 | 6.30% |  
 
 
 
