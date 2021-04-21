@@ -1,5 +1,5 @@
 * name:	MovieLens 1M
-* source: http://konect.uni-koblenz.de/networks/movielens-1m
+* source: http://konect.cc//networks/movielens-1m
 * nodes: 6,040 x 3,706
 * edges: 1,000,209
 * density: 4.467%
