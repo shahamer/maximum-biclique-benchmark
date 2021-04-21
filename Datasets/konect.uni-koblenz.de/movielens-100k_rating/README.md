@@ -1,6 +1,7 @@
 
 * name:	MovieLens 100k
 * source: http://konect.uni-koblenz.de/networks/movielens-100k_rating
+* source: http://konect.cc/networks/movielens-100k_rating
 * nodes: 943 x 1,682
 * edges: 100,000
 * density: 6.3%
