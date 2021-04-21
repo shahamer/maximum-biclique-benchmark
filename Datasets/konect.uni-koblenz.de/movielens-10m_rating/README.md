@@ -1,5 +1,5 @@
 * name:	MovieLens 10M
-* source: http://konect.uni-koblenz.de/networks/movielens-10m_rating
+* source: http://konect.cc/networks/movielens-10m_rating
 * nodes: 69,878 x 10,677
 * edges: 10,000,054
 * density: 1.34%
