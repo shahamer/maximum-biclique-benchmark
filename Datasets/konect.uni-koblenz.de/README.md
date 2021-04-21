@@ -1,1 +1,1 @@
-http://konect.uni-koblenz.de/networks/
+http://konect.cc/networks/
