@@ -23,54 +23,54 @@ The computational complexity of finding the maximum biclique depends on the exac
  
 ## Real World Datasets
 
-| dataset info    |  max biclique |       nodes      | edges         |  density         | 
-|:-----------------|-----:|-------:|-----:|------:|
-| | | | | | 
-| [Snap database](Datasets/snap.stanford.edu/README.md) | | | | | 
-| [com-LiveJournal](Datasets/snap.stanford.edu/com-LiveJournal) | 33,984 | 2,325,297 x 3,996,402 | 34,681,189 | 0.00037% | 
-| [com-Youtube](Datasets/snap.stanford.edu/com-Youtube)  | 8,008 | 374,785 x 1,134,140 | 2,987,624 | 0.00070% | 
-| [wiki-topcats](Datasets/snap.stanford.edu/wiki-topcats) | 126,824 | 1,791,489 x 1,791,489 | 28,511,807 | 0.00089% | 
-| [com-Amazon](Datasets/snap.stanford.edu/com-Amazon)  | 188 | 265,933 x 264,147 | 925,872 | 0.0013% |
-| [com-Orkut](Datasets/snap.stanford.edu/com-Orkut) | 16,726 | 2,723,360 x 3,072,440 | 117,185,083 | 0.0014% | 
-| [com-DBLP](Datasets/snap.stanford.edu/com-DBLP)   | 3,249 | 189,114 x 304,374 | 1,049,866 | 0.0018% |
-| [email-Eu-core](Datasets/snap.stanford.edu/email-Eu-core) | 390 | 868 x 991 | 25,571| 2.97% |
-| | | | | | 
-| [Konect database](Datasets/konect.uni-koblenz.de/README.md) | | | | | 
-| [movieLens 10M](Datasets/konect.uni-koblenz.de/movielens-10m_rating) | 67,736 | 69,878 x 10,677 | 10,000,054 | 1.34% | 
-| [movieLens 1M](Datasets/konect.uni-koblenz.de/movielens-1m) | 7,002 | 6,040 x 3,706 | 1,000,209 | 4.47% | 
-| [movieLens 100K](Datasets/konect.uni-koblenz.de/movielens-100k_rating) | 1,267 | 943 x 1,682 | 100,000 | 6.30% |  
+| dataset info    |  max biclique |       nodes      | edges         |  density         | maximum biclique   | 
+|:-----------------|-----:|-------:|-----:|------:|------:|
+| | | | | | | 
+| [Snap database](Datasets/snap.stanford.edu/README.md) | | | | | |
+| [com-LiveJournal](Datasets/snap.stanford.edu/com-LiveJournal) | 33,984 | 2,325,297 x 3,996,402 | 34,681,189 | 0.00037% | 33,984 = 192 x 177 |
+| [com-Youtube](Datasets/snap.stanford.edu/com-Youtube)  | 8,008 | 374,785 x 1,134,140 | 2,987,624 | 0.00070% | 8,008 = 2 x 4,004 | 
+| [wiki-topcats](Datasets/snap.stanford.edu/wiki-topcats) | 126,824 | 1,791,489 x 1,791,489 | 28,511,807 | 0.00089% | 126,824 = 31,706 x 4 | 
+| [com-Amazon](Datasets/snap.stanford.edu/com-Amazon)  | 188 | 265,933 x 264,147 | 925,872 | 0.0013% | 188 = 94 x 2 | 
+| [com-Orkut](Datasets/snap.stanford.edu/com-Orkut) | 16,726 | 2,723,360 x 3,072,440 | 117,185,083 | 0.0014% | 16,726 = 2 x 8,363 | 
+| [com-DBLP](Datasets/snap.stanford.edu/com-DBLP)   | 3,249 | 189,114 x 304,374 | 1,049,866 | 0.0018% | 3,249 = 57 x 57 |
+| [email-Eu-core](Datasets/snap.stanford.edu/email-Eu-core) | 390 | 868 x 991 | 25,571| 2.97% | 390 = 5 x 78 |
+| | | | | | | 
+| [Konect database](Datasets/konect.uni-koblenz.de/README.md) | | | | | | 
+| [movieLens 10M](Datasets/konect.uni-koblenz.de/movielens-10m_rating) | 67,736 | 69,878 x 10,677 | 10,000,054 | 1.34% | 67,736 = 8,467 x 8 |
+| [movieLens 1M](Datasets/konect.uni-koblenz.de/movielens-1m) | 7,002 | 6,040 x 3,706 | 1,000,209 | 4.47% | 7,002 = 778 x 9 | 
+| [movieLens 100K](Datasets/konect.uni-koblenz.de/movielens-100k_rating) | 1,267 | 943 x 1,682 | 100,000 | 6.30% | 1,267 = 181 x 7 |
 
 
 
 
 ## [Synthetic Datasets](Datasets/random/README.md)
 
-| [dataset info](Datasets/random/README.md)    |  max biclique |       nodes      | edges         |  density         | 
-|:-----------------|--------------------:|---------------:|--------------:|--------------:|
-| [random.m_10000_n_1000_p_0.02](Datasets/random#randomm_10000_n_1000_p_002)| 32 | 10,000 x 1,000 | 200,000   |  2% | 
-| [random.m_10000_n_5000_p_0.02](Datasets/random#randomm_10000_n_5000_p_002) | 36 |  10,000 x 5,000 | 1,000,000 | 2% | 
-| [random.m_10000_n_10000_p_0.02](Datasets/random#randomm_10000_n_10000_p_002) | 38 | 10,000 x 10,000 | 2,000,000 | 2% |
-| [random.m_10000_n_1000_p_0.045_cv_0.3](Datasets/random#randomm_10000_n_1000_p_0045_cv_03) | 96 | 9,992 x 1,000 | 450,042 | 4.5% | 
-| [random.m_10000_n_1000_p_0.045_cv_0.8](Datasets/random#randomm_10000_n_1000_p_0045_cv_08)  | 128 | 8,928 x 1,000 | 468,303 | 5.25% | 
-| [random.m_10000_n_1000_p_0.045_cv_1.3](Datasets/random#randomm_10000_n_1000_p_0045_cv_13) | 170 | 7,781 x 1,000 | 522,023 | 6.7% | 
-| [random.m_300_n_300_p_0.1](Datasets/random#randomm_300_n_300_p_01)  | 26 | 300 x 300  | 9,000 | 10% | 
-| [random.m_300_n_300_p_0.2](Datasets/random#randomm_300_n_300_p_02) | 58 |  300 x 300  | 18,000 | 20% | 
-| [random.m_300_n_300_p_0.3](Datasets/random#randomm_300_n_300_p_03) | 110 |  300 x 300  | 27,000 |  30% | 
-| [random.m_10000_n_100_p_0.03](Datasets/random#randomm_10000_n_100_p_003) | 44 | 9,513 x 100 | 30,000 | 3.15% |
-| [random.m_10000_n_500_p_0.03](Datasets/random#randomm_10000_n_500_p_003) | 50 | 10,000 x 500 | 150,000 | 3% | 
-| [random.m_10000_n_1000_p_0.03](Datasets/random#randomm_10000_n_1000_p_003) | 52 | 10,000 x 1,000 | 300,000 |  3% | 
-| [random.m_5000_n_500_p_0.03](Datasets/random#randomm_5000_n_500_p_003) | 32 | 5,000 x 500 | 75,000 | 3% | 
-| [random.m_25000_n_500_p_0.03](Datasets/random#randomm_25000_n_500_p_003) | 90 | 25,000 x 500 | 375,000 | 3% | 
-| [random.m_50000_n_500_p_0.03](Datasets/random#randomm_50000_n_500_p_003) |  150 | 50,000 x 500  | 750,000 | 3% | 
-| [random.m_100_n_100_r_0.2_p_0.2](Datasets/random#randomm_100_n_100_r_02_p_02) | 400 | 100 x 100  | 2,381 | 23.81% |  
-| [random.m_100_n_100_r_0.2_p_0.5](Datasets/random#randomm_100_n_100_r_02_p_05) | 400 | 100 x 100  | 5,126 | 51.26% | 
-| [random.m_100_n_100_r_0.2_p_0.8](Datasets/random#randomm_100_n_100_r_02_p_08) | 456 | 100 x 100  | 8,092 | 80.92% | 
-| [random.m_100_n_100_r_0.5_p_0.2](Datasets/random#randomm_100_n_100_r_05_p_02) | 2,500 | 100 x 100  | 4,008 | 40.08% | 
-| [random.m_100_n_100_r_0.5_p_0.5](Datasets/random#randomm_100_n_100_r_05_p_05) | 2,500 | 100 x 100  | 6,208 | 62.08% | 
-| [random.m_100_n_100_r_0.5_p_0.8](Datasets/random#randomm_100_n_100_r_05_p_08) | 2,500 | 100 x 100  | 8,456 | 84.56% | 
-| [random.m_100_n_100_r_0.8_p_0.2](Datasets/random#randomm_100_n_100_r_08_p_02) | 6,400 | 100 x 100  | 7,127 | 71.27% | 
-| [random.m_100_n_100_r_0.8_p_0.5](Datasets/random#randomm_100_n_100_r_08_p_05) | 6,400 | 100 x 100  | 8,236 | 82.36% | 
-| [random.m_100_n_100_r_0.8_p_0.8](Datasets/random#randomm_100_n_100_r_08_p_08) | 6,400 | 100 x 100  | 9,277 | 92.77% | 
+| [dataset info](Datasets/random/README.md)    |  max biclique |       nodes      | edges         |  density   |  maximum biclique   | 
+|:-----------------|--------------------:|---------------:|--------------:|--------------:|--------------:|
+| [random.m_10000_n_1000_p_0.02](Datasets/random#randomm_10000_n_1000_p_002)| 32 | 10,000 x 1,000 | 200,000   |  2% | 32 = 16 x 2 |
+| [random.m_10000_n_5000_p_0.02](Datasets/random#randomm_10000_n_5000_p_002) | 36 |  10,000 x 5,000 | 1,000,000 | 2% | 36 = 18 x 2 | 
+| [random.m_10000_n_10000_p_0.02](Datasets/random#randomm_10000_n_10000_p_002) | 38 | 10,000 x 10,000 | 2,000,000 | 2% | 38 = 2 x 19 | 
+| [random.m_10000_n_1000_p_0.045_cv_0.3](Datasets/random#randomm_10000_n_1000_p_0045_cv_03) | 96 | 9,992 x 1,000 | 450,042 | 4.5% | 96 = 48 x 2 | 
+| [random.m_10000_n_1000_p_0.045_cv_0.8](Datasets/random#randomm_10000_n_1000_p_0045_cv_08)  | 128 | 8,928 x 1,000 | 468,303 | 5.25% | 128 = 64 x 2 | 
+| [random.m_10000_n_1000_p_0.045_cv_1.3](Datasets/random#randomm_10000_n_1000_p_0045_cv_13) | 170 | 7,781 x 1,000 | 522,023 | 6.7% | 170 = 85 x 2 | 
+| [random.m_300_n_300_p_0.1](Datasets/random#randomm_300_n_300_p_01)  | 26 | 300 x 300  | 9,000 | 10% | 26 = 13 x 2 | 
+| [random.m_300_n_300_p_0.2](Datasets/random#randomm_300_n_300_p_02) | 58 |  300 x 300  | 18,000 | 20% | 58 = 29 x 2 | 
+| [random.m_300_n_300_p_0.3](Datasets/random#randomm_300_n_300_p_03) | 110 |  300 x 300  | 27,000 |  30% | 110 = 2 x 55 | 
+| [random.m_10000_n_100_p_0.03](Datasets/random#randomm_10000_n_100_p_003) | 44 | 9,513 x 100 | 30,000 | 3.15% | 44 = 22 x 2 |
+| [random.m_10000_n_500_p_0.03](Datasets/random#randomm_10000_n_500_p_003) | 50 | 10,000 x 500 | 150,000 | 3% | 50 = 25 x 2 | 
+| [random.m_10000_n_1000_p_0.03](Datasets/random#randomm_10000_n_1000_p_003) | 52 | 10,000 x 1,000 | 300,000 |  3% | 52 = 26 x 2 | 
+| [random.m_5000_n_500_p_0.03](Datasets/random#randomm_5000_n_500_p_003) | 32 | 5,000 x 500 | 75,000 | 3% | 32 = 16 x 2 | 
+| [random.m_25000_n_500_p_0.03](Datasets/random#randomm_25000_n_500_p_003) | 90 | 25,000 x 500 | 375,000 | 3% | 90 = 45 x 2 | 
+| [random.m_50000_n_500_p_0.03](Datasets/random#randomm_50000_n_500_p_003) |  150 | 50,000 x 500  | 750,000 | 3% | 150 = 75 x 2 | 
+| [random.m_100_n_100_r_0.2_p_0.2](Datasets/random#randomm_100_n_100_r_02_p_02) | 400 | 100 x 100  | 2,381 | 23.81% |  400 = 20 x 20 | 
+| [random.m_100_n_100_r_0.2_p_0.5](Datasets/random#randomm_100_n_100_r_02_p_05) | 400 | 100 x 100  | 5,126 | 51.26% | 400 = 20 x 20 | 
+| [random.m_100_n_100_r_0.2_p_0.8](Datasets/random#randomm_100_n_100_r_02_p_08) | 456 | 100 x 100  | 8,092 | 80.92% | 456 = 24 x 19 |
+| [random.m_100_n_100_r_0.5_p_0.2](Datasets/random#randomm_100_n_100_r_05_p_02) | 2,500 | 100 x 100  | 4,008 | 40.08% | 2,500 = 50 x 50 |
+| [random.m_100_n_100_r_0.5_p_0.5](Datasets/random#randomm_100_n_100_r_05_p_05) | 2,500 | 100 x 100  | 6,208 | 62.08% | 2,500 = 50 x 50 | 
+| [random.m_100_n_100_r_0.5_p_0.8](Datasets/random#randomm_100_n_100_r_05_p_08) | 2,500 | 100 x 100  | 8,456 | 84.56% | 2,500 = 50 x 50 | 
+| [random.m_100_n_100_r_0.8_p_0.2](Datasets/random#randomm_100_n_100_r_08_p_02) | 6,400 | 100 x 100  | 7,127 | 71.27% | 6,400 = 80 x 80 | 
+| [random.m_100_n_100_r_0.8_p_0.5](Datasets/random#randomm_100_n_100_r_08_p_05) | 6,400 | 100 x 100  | 8,236 | 82.36% | 6,400 = 80 x 80 | 
+| [random.m_100_n_100_r_0.8_p_0.8](Datasets/random#randomm_100_n_100_r_08_p_08) | 6,400 | 100 x 100  | 9,277 | 92.77% | 6,400 = 80 x 80 | 
 
 ## Acknowledgement & Citation
 
