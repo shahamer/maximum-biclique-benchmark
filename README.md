@@ -24,7 +24,7 @@ The computational complexity of finding the maximum biclique depends on the exac
 ## Real World Datasets
 
 | dataset info    |  max biclique |       nodes      | edges         |  density         | maximum biclique   | 
-|:-----------------|-----:|-------:|-----:|------:|------:|
+|:-----------------|-----:|-------:|-----:|------:|:------|
 | | | | | | | 
 | [Snap database](Datasets/snap.stanford.edu/README.md) | | | | | |
 | [com-LiveJournal](Datasets/snap.stanford.edu/com-LiveJournal) | 33,984 | 2,325,297 x 3,996,402 | 34,681,189 | 0.00037% | 33,984 = 192 x 177 |
@@ -46,7 +46,7 @@ The computational complexity of finding the maximum biclique depends on the exac
 ## [Synthetic Datasets](Datasets/random/README.md)
 
 | [dataset info](Datasets/random/README.md)    |  max biclique |       nodes      | edges         |  density   |  maximum biclique   | 
-|:-----------------|--------------------:|---------------:|--------------:|--------------:|--------------:|
+|:-----------------|--------------------:|---------------:|--------------:|--------------:|:--------------|
 | [random.m_10000_n_1000_p_0.02](Datasets/random#randomm_10000_n_1000_p_002)| 32 | 10,000 x 1,000 | 200,000   |  2% | 32 = 16 x 2 |
 | [random.m_10000_n_5000_p_0.02](Datasets/random#randomm_10000_n_5000_p_002) | 36 |  10,000 x 5,000 | 1,000,000 | 2% | 36 = 18 x 2 | 
 | [random.m_10000_n_10000_p_0.02](Datasets/random#randomm_10000_n_10000_p_002) | 38 | 10,000 x 10,000 | 2,000,000 | 2% | 38 = 2 x 19 | 
