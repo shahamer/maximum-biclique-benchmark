@@ -23,7 +23,7 @@ The computational complexity of finding the maximum biclique depends on the exac
  
 ## Real World Datasets
 
-| dataset info    |    nodes      | edges         |  density   | **maximum biclique**   | 
+| dataset info    |    nodes      | edges         |  density   | __maximum biclique__   | 
 |:-----------------|-------:|-----:|------:|------:|
 | | | | | | 
 | [Snap database](Datasets/snap.stanford.edu/README.md) | | | | |
