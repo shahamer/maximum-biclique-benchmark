@@ -106,4 +106,4 @@ BMC Bioinformatics, 15, 2014, pp. 110–127.
 Discrete Applied Mathematics, 131(3), 2003, pp. 651–654.
 
 ## Feedback, Suggestions
-Please mail any feedback or suggestions
+Please email any feedback or suggestions
